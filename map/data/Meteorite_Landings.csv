@@ -1,0 +1,903 @@
+name,id,name type,recclass,mass (g),fall,year,reclat,reclong
+Mbosi,15456,Valid,"Iron, ungrouped",16000000,Found,1/1/30 0:00,-9.11667,33.06667
+Paragould,18101,Valid,LL5,408000,Fell,1/1/30 0:00,36.06667,-90.5
+Bencubbin,5014,Valid,CBa,118000,Found,1/1/30 0:00,-30.75,117.78333
+Uwharrie,24139,Valid,"Iron, IIIAB",72700,Found,1/1/30 0:00,35.51667,-79.96667
+Landes,12457,Valid,"Iron, IAB-MG",69800,Found,1/1/30 0:00,38.9,-79.18333
+Miami,16630,Valid,H5,57700,Found,1/1/30 0:00,35.66667,-100.6
+Karoonda,12264,Valid,CK4,41730,Fell,1/1/30 0:00,-35.08333,139.91667
+Miller (Arkansas),16645,Valid,H5,16700,Fell,1/1/30 0:00,35.4,-92.05
+Tell,23893,Valid,H6,16600,Found,1/1/30 0:00,34.38333,-100.4
+Oldenburg (1930),18009,Valid,L6,16570,Fell,1/1/30 0:00,52.95,8.16667
+Moorleah,16738,Valid,L6,8887.5,Fell,1/1/30 0:00,-40.975,145.6
+Lillaverke,14650,Valid,H5,6862,Fell,1/1/30 0:00,56.65,15.86667
+Borrego,5115,Valid,L6,2126,Found,1/1/30 0:00,33.26667,-116.38333
+Plantersville,18846,Valid,H6,2085,Fell,1/1/30 0:00,30.7,-96.11667
+Aguada,398,Valid,L6,1620,Fell,1/1/30 0:00,-31.6,-65.23333
+Boriskino,5112,Valid,CM2,1342,Fell,1/1/30 0:00,54.23333,52.48333
+Gyokukei,11467,Valid,OC,1320,Fell,1/1/30 0:00,35,127.5
+Henbury,11872,Valid,"Iron, IIIAB",2000000,Found,1/1/31 0:00,-24.56667,133.16667
+Springwater,23692,Valid,"Pallasite, PMG-an",67600,Found,1/1/31 0:00,52,-108.3
+Bear Lodge,4983,Valid,"Iron, IIIAB",48500,Found,1/1/31 0:00,44.5,-104.2
+Osseo,18037,Valid,"Iron, IAB complex",46300,Found,1/1/31 0:00,47.63333,-80.08333
+Ioka,12040,Valid,L3.5,31500,Found,1/1/31 0:00,40.25,-110.08333
+Alikatnima,471,Valid,"Iron, ungrouped",20000,Found,1/1/31 0:00,-23.33333,134.11667
+Bruno,5158,Valid,"Iron, IIAB",13000,Found,1/1/31 0:00,52.26667,-105.35
+Tatahouine,23884,Valid,Diogenite,12000,Fell,1/1/31 0:00,32.95,10.41667
+Landor,12458,Valid,Iron,9000,Found,1/1/31 0:00,-25.66667,117
+Yukan,30377,Valid,LL6,4800,Fell,1/1/31 0:00,28.71667,116.61667
+Pine River,18826,Valid,"Iron, IAB-sLL",3600,Found,1/1/31 0:00,44.21667,-89.1
+Clareton,5371,Valid,L6,1050,Found,1/1/31 0:00,43.7,-104.7
+Lafayette (stone),12412,Valid,Martian (nakhlite),800,Found,1/1/31 0:00,40.41667,-86.88333
+Guanghua,11434,Valid,"Iron, IVA",190000,Found,1/1/32 0:00,32.4,111.7
+Wagon Mound,24196,Valid,L6,87500,Found,1/1/32 0:00,35.84083,-104.58583
+Kyancutta,12386,Valid,"Iron, IIIAB",32700,Found,1/1/32 0:00,-33.28333,136
+Deelfontein,6636,Valid,"Iron, IAB-MG",28000,Found,1/1/32 0:00,-30.18333,23.26667
+Gualeguaych’_,11432,Valid,H6,22000,Fell,1/1/32 0:00,-33,-58.61667
+Baquedano,4939,Valid,"Iron, IIIAB",22000,Found,1/1/32 0:00,-23.3,-69.88333
+Altonah,2286,Valid,"Iron, IVA",21500,Found,1/1/32 0:00,40.56667,-110.48333
+Nordheim,16992,Valid,"Iron, ungrouped",15150,Found,1/1/32 0:00,28.86667,-97.61667
+Lanton,12463,Valid,"Iron, IIIAB",13780,Found,1/1/32 0:00,36.53333,-91.8
+Cowell,5457,Valid,"Iron, IIIAB",5717,Found,1/1/32 0:00,-33.3,136.01667
+Archie,2329,Valid,H6,5070,Fell,1/1/32 0:00,38.5,-94.3
+Kuznetzovo,12385,Valid,L6,4047,Fell,1/1/32 0:00,55.2,75.33333
+Khanpur,12289,Valid,LL5,3698,Fell,1/1/32 0:00,25.55,83.11667
+Khor Temiki,12299,Valid,Aubrite,3200,Fell,1/1/32 0:00,16,36
+Prambachkirchen,18883,Valid,L6,2125,Fell,1/1/32 0:00,48.3025,13.94083
+Douar Mghila,7723,Valid,LL6,1161,Fell,1/1/32 0:00,32.33333,-6.3
+Boerne,5095,Valid,H6,1100,Found,1/1/32 0:00,29.8,-98.8
+Cushing,5499,Valid,H4,567,Found,1/1/32 0:00,35.96667,-96.76667
+Lake Murray,12446,Valid,"Iron, IIAB",270000,Found,1/1/33 0:00,34.1,-97
+Pervomaisky,18798,Valid,L6,66000,Fell,1/1/33 0:00,56.63333,39.43333
+Roy (1933),22774,Valid,L5,47200,Found,1/1/33 0:00,35.95,-104.2
+Harrisonville,11844,Valid,L6,46500,Found,1/1/33 0:00,38.65,-94.33333
+Zemaitkiemis,30399,Valid,L6,44100,Fell,1/1/33 0:00,55.3,25
+Melrose (a),15475,Valid,L5,36400,Found,1/1/33 0:00,34.38333,-103.61667
+La Lande,12400,Valid,L5,30000,Found,1/1/33 0:00,34.45,-104.13333
+Chajari,5316,Valid,L5,18300,Fell,1/1/33 0:00,-30.78333,-58.05
+Holyoke,11900,Valid,H4,11200,Found,1/1/33 0:00,40.56667,-102.3
+Cherokee Springs,5340,Valid,LL6,8400,Fell,1/1/33 0:00,35.03333,-81.88333
+Phum Sambo,18811,Valid,H4,7800,Fell,1/1/33 0:00,12,105.48333
+Repeev Khutor,22590,Valid,"Iron, IIF",7000,Fell,1/1/33 0:00,48.6,45.66667
+Marsland,15434,Valid,H5,6850,Found,1/1/33 0:00,42.45,-103.3
+Pasamonte,18110,Valid,Eucrite-pmict,5100,Fell,1/1/33 0:00,36.21667,-103.4
+Grady (1933),10951,Valid,L3-6,4230,Found,1/1/33 0:00,34.8,-103.31667
+Sioux County,23614,Valid,Eucrite-mmict,4100,Fell,1/1/33 0:00,42.58333,-103.66667
+Pesyanoe,18799,Valid,Aubrite,3393,Fell,1/1/33 0:00,55.5,66.08333
+Shafter Lake,23513,Valid,H5,3027,Found,1/1/33 0:00,32.4,-102.58333
+Loomis,14698,Valid,L6,3020,Found,1/1/33 0:00,40.46667,-99.5
+Bushman Land,5179,Valid,"Iron, IVA",3000,Found,1/1/33 0:00,-30,20
+Hobbs,11891,Valid,H4,2300,Found,1/1/33 0:00,32.73333,-103.1
+Hobbs (b),11892,Valid,H5,1600,Found,1/1/33 0:00,32.73333,-103.1
+Malvern,15400,Valid,Eucrite-pmict,807,Fell,1/1/33 0:00,-29.45,26.76667
+Po-wang Chen,18879,Valid,LL,665,Fell,1/1/33 0:00,31.41667,118.5
+Banten,4938,Valid,CM2,629,Fell,1/1/33 0:00,-6.33333,106
+Para de Minas,18099,Valid,"Iron, IVA",116300,Found,1/1/34 0:00,-19.86667,-44.61667
+Bennett County,5022,Valid,"Iron, IIAB",89000,Found,1/1/34 0:00,43.5,-101.25
+Farmville,10075,Valid,H4,56000,Fell,1/1/34 0:00,35.55,-77.53333
+Weldona,24234,Valid,H4,27700,Found,1/1/34 0:00,40.35,-103.95
+Taiban,23785,Valid,L5,25000,Found,1/1/34 0:00,34.45,-104.01667
+Mangwendi,15405,Valid,LL6,22300,Fell,1/1/34 0:00,-17.65,31.6
+Nashville (iron),16920,Valid,Iron,18000,Found,1/1/34 0:00,35.96667,-77.96667
+Tryon,24056,Valid,L6,15900,Found,1/1/34 0:00,41.55,-100.96667
+Gruver,11428,Valid,H4,13100,Found,1/1/34 0:00,36.33333,-101.4
+Willard (b),24271,Valid,H3.6,12700,Found,1/1/34 0:00,34.5,-105.83333
+Cope,5440,Valid,H5,12000,Found,1/1/34 0:00,39.66667,-102.83333
+Glen Rose (iron),10932,Valid,"Iron, ungrouped",11000,Found,1/1/34 0:00,32.25,-97.71667
+Spearman,23687,Valid,"Iron, IIIAB",10400,Found,1/1/34 0:00,36.25,-101.21667
+Bahjoi,4922,Valid,"Iron, IAB-sLL",10322,Fell,1/1/34 0:00,28.48333,78.5
+Kearney,12269,Valid,H5,10000,Found,1/1/34 0:00,40.68333,-99.06667
+Round Top (a),22768,Valid,L5,9935,Found,1/1/34 0:00,30.05806,-96.65139
+Hainaut,11472,Valid,H3-6,9000,Fell,1/1/34 0:00,50.31667,3.73333
+Roy (1934),22775,Valid,L6,5619,Found,1/1/34 0:00,35.95,-104.2
+Amber,2291,Valid,L6,4532,Found,1/1/34 0:00,35.16667,-97.88333
+Fayetteville,10079,Valid,H4,2360,Fell,1/1/34 0:00,36.05,-94.16667
+Rio Negro,22611,Valid,L4,1310,Fell,1/1/34 0:00,-26.1,-49.8
+Capilla del Monte,5264,Valid,H6,750,Fell,1/1/34 0:00,-30.88333,-64.55
+Carver,5284,Valid,"Iron, IIAB",94000,Found,1/1/35 0:00,32,-86
+owicz,14718,Valid,Mesosiderite-A3,59000,Fell,1/1/35 0:00,52,19.91667
+Nullarbor 001,17941,Valid,H5,40000,Found,1/1/35 0:00,-31,132
+Patwar,18171,Valid,Mesosiderite-A1,37350,Fell,1/1/35 0:00,23.15,91.18333
+Perpeti,18793,Valid,L6,23474,Fell,1/1/35 0:00,23.325,91
+Maria Elena (1935),15417,Valid,"Iron, IVA",15500,Found,1/1/35 0:00,-22.33333,-69.66667
+Hasparos,11850,Valid,"Iron, IAB-MG",12880,Found,1/1/35 0:00,34,-105.5
+Quartz Mountain,18910,Valid,"Iron, IIIAB",4832,Found,1/1/35 0:00,37.2,-116.7
+Nikolaevka,16976,Valid,H4,3996,Fell,1/1/35 0:00,52.45,78.63333
+Paloduro,18081,Valid,"Iron, IIIE",3000,Found,1/1/35 0:00,34.9,-101.21667
+Pine Bluffs,18824,Valid,H,2700,Found,1/1/35 0:00,41.18333,-104.06667
+Pleasanton,18848,Valid,H5,2300,Found,1/1/35 0:00,38.18333,-94.71667
+Phillips County (pallasite),18807,Valid,"Pallasite, PMG-an",1360,Found,1/1/35 0:00,40.45,-102.38333
+McAddo,15457,Valid,L6,1100,Found,1/1/35 0:00,33.75,-100.93333
+Naruna (a),16916,Valid,H4,672.3,Found,1/1/35 0:00,30.95,-98.26667
+Sungach,23745,Valid,H5,637,Fell,1/1/35 0:00,44.86667,133.16667
+Marlow,15428,Valid,L5,68000,Found,1/1/36 0:00,34.6,-97.91667
+Gladstone (stone),10921,Valid,H4,57300,Found,1/1/36 0:00,36.3,-104
+Cuero,5493,Valid,H5,46500,Found,1/1/36 0:00,29.01667,-97.28333
+Arriba,2339,Valid,L5,31100,Found,1/1/36 0:00,39.3,-103.25
+Negrillos,16939,Valid,"Iron, IIAB",28500,Found,1/1/36 0:00,-19.88333,-69.83333
+Adrian,388,Valid,H4,22600,Found,1/1/36 0:00,35.15,-102.71667
+New Leipzig,16955,Valid,"Iron, IAB-MG",20000,Found,1/1/36 0:00,46.36667,-101.95
+Farley,10073,Valid,H5,19400,Found,1/1/36 0:00,36.33333,-104.05
+Channing,5324,Valid,H5,15300,Found,1/1/36 0:00,35.71667,-102.28333
+Sanderson,23135,Valid,"Iron, IIIAB",6800,Found,1/1/36 0:00,30.13333,-102.15
+Cashion,5287,Valid,H4,5896.8,Found,1/1/36 0:00,35.84778,-97.70333
+Ouallen,18048,Valid,H6,5174,Found,1/1/36 0:00,24.16667,0.08333
+Shallowater,23522,Valid,Aubrite,4650,Found,1/1/36 0:00,33.7,-101.93333
+Phulmari,18810,Valid,Stone-uncl,4064,Found,1/1/36 0:00,20.13333,75.5
+Ichkala,11995,Valid,H6,3973,Fell,1/1/36 0:00,58.2,82.93333
+Grant County,10958,Valid,L6,2300,Found,1/1/36 0:00,37.46667,-101.43333
+Macibini,15372,Valid,Eucrite-pmict,1995,Fell,1/1/36 0:00,-28.83333,31.95
+Seneca,23497,Valid,H4,1900,Found,1/1/36 0:00,39.83333,-96.06667
+Elton,10029,Valid,"Iron, ungrouped",1900,Found,1/1/36 0:00,33.71667,-100.83333
+Livingston (Montana),14668,Valid,"Iron, IIIAB",1600,Found,1/1/36 0:00,45.6,-110.58333
+Yurtuk,30378,Valid,Howardite,1472,Fell,1/1/36 0:00,47.31667,35.36667
+Karval,12265,Valid,H5,1104,Found,1/1/36 0:00,38.71667,-103.51667
+Ute Creek,24134,Valid,H4,1000,Found,1/1/36 0:00,36.2,-103.9
+Aiken,421,Valid,OC,956,Found,1/1/36 0:00,34.2,-101.5
+Hale Center (no. 2),11478,Valid,H4,695,Found,1/1/36 0:00,34.05,-101.75
+Hale Center (no. 1),11477,Valid,L5,610,Found,1/1/36 0:00,34.05,-101.75
+Elkhart,10017,Valid,H5,573,Found,1/1/36 0:00,37.01667,-101.88333
+Los Sauces,14710,Valid,Iron,997000,Found,1/1/37 0:00,-29.41667,-66.85
+Boxhole,5126,Valid,"Iron, IIIAB",500000,Found,1/1/37 0:00,-22.61667,135.2
+Putinga,18905,Valid,L6,300000,Fell,1/1/37 0:00,-29.03333,-53.05
+Kainsaz,12229,Valid,CO3.2,200000,Fell,1/1/37 0:00,55.43333,53.25
+Scurry,23468,Valid,H5,118000,Found,1/1/37 0:00,32.5,-101
+Gundaring,11452,Valid,"Iron, IIIAB",112500,Found,1/1/37 0:00,-33.3,117.66667
+Mrirt,16819,Valid,Iron,79900,Found,1/1/37 0:00,33.13333,-5.56667
+Kumerina,12375,Valid,"Iron, IIC",53500,Found,1/1/37 0:00,-24.91667,119.41667
+Beenham,4995,Valid,L5,44400,Found,1/1/37 0:00,36.21667,-103.65
+Kelly,12273,Valid,LL4,44300,Found,1/1/37 0:00,40.46667,-103.03333
+Brownfield (1937),5151,Valid,H3.7,40960,Found,1/1/37 0:00,33.21667,-102.18333
+Wonyulgunna,24329,Valid,"Iron, IIIAB",37800,Found,1/1/37 0:00,-24.91667,120.06667
+Ladder Creek,12410,Valid,L6,35100,Found,1/1/37 0:00,38.61667,-101.63333
+Texline,23906,Valid,H5,26200,Found,1/1/37 0:00,36.4,-103.01667
+Tauti,23888,Valid,L6,21000,Fell,1/1/37 0:00,46.71667,23.5
+Bristol,5143,Valid,"Iron, IVA",20000,Found,1/1/37 0:00,36.56667,-82.18333
+Arcadia,2326,Valid,LL6,19400,Found,1/1/37 0:00,41.41667,-99.1
+Shaw,23526,Valid,L6/7,17500,Found,1/1/37 0:00,39.53333,-103.33333
+Peetz,18783,Valid,L6,11500,Found,1/1/37 0:00,40.95,-103.08333
+Clark County,5373,Valid,"Iron, IIIF",11300,Found,1/1/37 0:00,38,-84.16667
+Johnson City,12197,Valid,L6,10400,Found,1/1/37 0:00,37.55,-101.68333
+Grady (1937),10952,Valid,H3.7,9300,Found,1/1/37 0:00,34.8,-103.31667
+Hardwick,11828,Valid,L4,7800,Found,1/1/37 0:00,43.8,-96.16667
+Broken Bow,5145,Valid,H4,6800,Found,1/1/37 0:00,41.43333,-99.7
+Casilda,5288,Valid,H5,5250,Found,1/1/37 0:00,-33.1,-61.13333
+Cedar (Kansas),5302,Valid,H6,4900,Found,1/1/37 0:00,39.7,-98.98333
+Coolidge,5434,Valid,C4-ung,4500,Found,1/1/37 0:00,38.03333,-101.98333
+Lincoln County,14654,Valid,L6,4500,Found,1/1/37 0:00,39.36667,-103.16667
+Farnum,10076,Valid,L5,4200,Found,1/1/37 0:00,40.25,-100.23333
+Laketon,12448,Valid,L6,3600,Found,1/1/37 0:00,35.56667,-100.66667
+Kaptal-Aryk,12253,Valid,L6,3500,Fell,1/1/37 0:00,42.45,73.36667
+Rangala,22392,Valid,L6,3224.5,Fell,1/1/37 0:00,25.38333,72.01667
+Springfield,23689,Valid,L6,3200,Found,1/1/37 0:00,37.38333,-102.63333
+Novorybinskoe,17931,Valid,"Iron, IVA",3055,Found,1/1/37 0:00,51.88333,71.25
+Little Spring Creek,30743,Valid,H5,2950,Found,1/1/37 0:00,37.68333,-105.7
+Kaalijarv,12217,Valid,"Iron, IAB-MG",2250,Found,1/1/37 0:00,58.4,22.66667
+Alamosa,450,Valid,L6,1800,Found,1/1/37 0:00,37.46667,-105.86667
+Erofeevka,10048,Valid,H4,1771.9,Found,1/1/37 0:00,51.86667,70.35
+Ferguson Switch,10089,Valid,H5,1700,Found,1/1/37 0:00,34,-101.5
+Smith Center,23649,Valid,L6,1585,Found,1/1/37 0:00,39.83333,-99.01667
+Waldo,24202,Valid,L6,1300,Found,1/1/37 0:00,39.1,-98.83333
+Haviland (a),11860,Valid,H5,1035,Found,1/1/37 0:00,37.61667,-99.1
+Brady,5129,Valid,L6,927,Found,1/1/37 0:00,31.05,-99.46667
+Yalgoo,24354,Valid,LL,850,Found,1/1/37 0:00,-28.38333,116.71667
+Mount Morris (Wisconsin),16783,Valid,"Iron, IAB-an",676,Found,1/1/37 0:00,44,-89.25
+Horse Creek,11910,Valid,"Iron, ungrouped",570,Found,1/1/37 0:00,37.58333,-102.76667
+Goose Lake,10947,Valid,"Iron, IAB-sLL",1169500,Found,1/1/38 0:00,41.98,-120.54167
+Chebankol,5335,Valid,"Iron, IAB-sHL",127760,Found,1/1/38 0:00,53.66667,88
+Zhovtnevyi,30407,Valid,H6,107000,Fell,1/1/38 0:00,47.58333,37.25
+Agua Blanca,397,Valid,"Iron, IIIAB",49000,Found,1/1/38 0:00,-28.91667,-66.95
+Bonita Springs,5104,Valid,H5,41800,Found,1/1/38 0:00,26.26667,-81.75
+El Simbolar,7818,Valid,Iron,40000,Found,1/1/38 0:00,-30.63333,-64.88333
+Monahans (1938),16718,Valid,"Iron, IIF",27900,Found,1/1/38 0:00,31.48333,-102.88333
+Cavour,5300,Valid,H6,26210,Found,1/1/38 0:00,44.221494,-98.059192
+Romero,22651,Valid,H4,17200,Found,1/1/38 0:00,35.76667,-102.95
+Ransom,22393,Valid,H4,15000,Found,1/1/38 0:00,38.61667,-99.93333
+Alamogordo,449,Valid,H5,13600,Found,1/1/38 0:00,32.9,-105.93333
+Harriman (Om),11841,Valid,"Iron, IIIAB",13000,Found,1/1/38 0:00,35.95,-84.56667
+Sandtown,23157,Valid,"Iron, IIIAB",9350,Found,1/1/38 0:00,35.93333,-91.63333
+Rush Creek,22786,Valid,L6,9300,Found,1/1/38 0:00,38.61667,-102.71667
+Howe,11914,Valid,H5,8630,Found,1/1/38 0:00,33.5,-96.6
+Bartlett,4953,Valid,"Iron, IIIAB",8590,Found,1/1/38 0:00,30.83333,-97.5
+Mukinbudin,45813,Valid,H5,8200,Found,1/1/38 0:00,-30.91667,118.2
+Calico Rock,5198,Valid,"Iron, IIAB",7275,Found,1/1/38 0:00,36.08333,-92.15
+Juarez,12205,Valid,L6,6100,Found,1/1/38 0:00,-37.55,-60.15
+Atlanta,4886,Valid,EL6,5500,Found,1/1/38 0:00,31.8,-92.75
+Garnett,10862,Valid,H4,4788,Found,1/1/38 0:00,38.26667,-95.25
+Wray (b),24339,Valid,L5,3884,Found,1/1/38 0:00,40.33083,-102.19583
+Soper,23669,Valid,"Iron, ungrouped",3700,Found,1/1/38 0:00,34.03333,-95.58333
+Wiley,24268,Valid,"Iron, IIC",3500,Found,1/1/38 0:00,38.15,-102.66667
+Aztec,4913,Valid,L6,2830,Fell,1/1/38 0:00,36.8,-108
+Silverton (Texas),23601,Valid,H4,2576,Found,1/1/38 0:00,34.53333,-101.18333
+Kukschin,12368,Valid,L6,2250,Fell,1/1/38 0:00,51.15,31.7
+Pantar,18098,Valid,H5,2130,Fell,1/1/38 0:00,8.06667,124.28333
+Tatum,23886,Valid,H4,1787,Found,1/1/38 0:00,33.23333,-103.44167
+Benld,5021,Valid,H6,1770.5,Fell,1/1/38 0:00,39.08333,-89.15
+Lubbock,14722,Valid,L5,1457.8,Found,1/1/38 0:00,33.6,-101.73333
+Mets’_kyl’_,16625,Valid,H4,1200,Found,1/1/38 0:00,60.65,27.06667
+Aurora,4901,Valid,H4,1000,Found,1/1/38 0:00,36.33333,-105.05
+Lavrentievka,12743,Valid,L6,800,Fell,1/1/38 0:00,52.45,51.56667
+Kasamatsu,12266,Valid,H,710,Fell,1/1/38 0:00,35.36667,136.76667
+Ivuna,12063,Valid,CI1,704.5,Fell,1/1/38 0:00,-8.41667,32.43333
+Ness County (1938),16947,Valid,H4,652,Found,1/1/38 0:00,38.48333,-99.91667
+Keyes,12287,Valid,L6,142000,Found,1/1/39 0:00,36.71667,-102.5
+Concho,5417,Valid,L6,93500,Found,1/1/39 0:00,32,-101.5
+Tawallah Valley,23889,Valid,"Iron, IVB",75750,Found,1/1/39 0:00,-15.7,135.66667
+Mapleton,15410,Valid,"Iron, IIIAB",49000,Found,1/1/39 0:00,42.18333,-95.71667
+Dresden (Ontario),7731,Valid,H6,47700,Fell,1/1/39 0:00,42.52,-82.26
+El Burro,7793,Valid,"Iron, IIAB",35900,Found,1/1/39 0:00,29.33333,-101.83333
+Nashville (stone),16921,Valid,L6,25000,Found,1/1/39 0:00,37.45,-98.41667
+Andura,2298,Valid,H6,17900,Fell,1/1/39 0:00,20.88333,76.86667
+Hat Creek,11853,Valid,H4,8900,Found,1/1/39 0:00,42.91667,-104.41667
+Edmonton (Canada),7770,Valid,"Iron, IIAB",7340,Found,1/1/39 0:00,53.66667,-113.41667
+Round Top (b),22769,Valid,H4,7166,Found,1/1/39 0:00,30.06667,-96.7
+Kendleton,12275,Valid,L4,6937,Fell,1/1/39 0:00,29.45,-96
+Ovid,18057,Valid,H6,6169,Found,1/1/39 0:00,40.96667,-102.4
+Coomandook,5435,Valid,H6,5230,Found,1/1/39 0:00,-35.41667,139.75
+Silver Bell,23596,Valid,"Iron, IIAB",5100,Found,1/1/39 0:00,32.48333,-111.56667
+McLean,15464,Valid,H6,4300,Found,1/1/39 0:00,35.23333,-100.6
+Indianola,12030,Valid,L5,4000,Found,1/1/39 0:00,40.23333,-100.41667
+Ekeby,7776,Valid,H4,3336,Fell,1/1/39 0:00,56.03333,13
+Pierceville (stone),18820,Valid,L6,2125,Found,1/1/39 0:00,37.86667,-100.66667
+Chervony Kut,5342,Valid,Eucrite-mmict,1700,Fell,1/1/39 0:00,50.83333,34
+Bolshaya Korta,5101,Valid,H5,1593,Found,1/1/39 0:00,57.63333,83.36667
+Selakopi,23481,Valid,H5,1590,Fell,1/1/39 0:00,-7.23333,107.33333
+Glanggang,10924,Valid,H5-6,1303,Fell,1/1/39 0:00,-7.25,107.7
+Bushnell,5180,Valid,H4,1240,Found,1/1/39 0:00,41.23333,-103.9
+Maldyak,15396,Valid,"Iron, IIIAB",992,Found,1/1/39 0:00,63.33333,148.16667
+Newsom,16963,Valid,L6,892,Found,1/1/39 0:00,37.6,-105.83333
+Nyaung,17969,Valid,"Iron, IIIAB",737.6,Fell,1/1/39 0:00,21.20833,94.91667
+Wathena,24220,Valid,"Iron, IIAB",566,Found,1/1/39 0:00,39.81667,-94.91667
+Sardis,23177,Valid,"Iron, IAB complex",800000,Found,1/1/40 0:00,32.94889,-81.865
+Smithonia,23651,Valid,"Iron, IIAB",69900,Found,1/1/40 0:00,34,-83.16667
+Wellman (a),24237,Valid,H5,55000,Found,1/1/40 0:00,33.03333,-102.33333
+Davy (a),6616,Valid,L4,50600,Found,1/1/40 0:00,29.1,-97.6
+Linwood,14657,Valid,"Iron, IAB-MG",46000,Found,1/1/40 0:00,41.43333,-96.96667
+Lamont,12453,Valid,Mesosiderite,38690,Found,1/1/40 0:00,38.07778,-96.02639
+Seymour,23511,Valid,"Iron, IAB-MG",25900,Found,1/1/40 0:00,37.2375,-92.78694
+Beaver,4985,Valid,L5,25628,Found,1/1/40 0:00,36.8,-100.53333
+Comanche (iron),5414,Valid,"Iron, IAB-sLL",19700,Found,1/1/40 0:00,32.01667,-98.7
+Horace,11908,Valid,H5,19700,Found,1/1/40 0:00,38.35,-101.78333
+Arapahoe,2323,Valid,L5,19083,Found,1/1/40 0:00,38.8,-102.2
+Emsland,10035,Valid,"Iron, ungrouped",19000,Found,1/1/40 0:00,53.1,7.2
+Brewster,5137,Valid,L6,17000,Found,1/1/40 0:00,39.25,-101.33333
+De Nova,6624,Valid,L6,12700,Found,1/1/40 0:00,39.85,-102.95
+Wickenburg (stone),24258,Valid,L6,9200,Found,1/1/40 0:00,33.96667,-112.73333
+Burdett,5167,Valid,H5,8600,Found,1/1/40 0:00,38.23333,-99.53333
+Cranfills Gap,5464,Valid,H6,6000,Found,1/1/40 0:00,31.75,-97.75
+Dwight,7756,Valid,L6,4100,Found,1/1/40 0:00,38.85,-96.58333
+Ramnagar,22384,Valid,L6,3766,Fell,1/1/40 0:00,26.45,82.9
+Moama,16708,Valid,Eucrite-cm,3416,Found,1/1/40 0:00,-35.95,144.51667
+Kediri,12270,Valid,L4,3300,Fell,1/1/40 0:00,-7.75,112.01667
+Norcateur,16991,Valid,L6,3200,Found,1/1/40 0:00,39.81667,-100.2
+Otis,18044,Valid,L6,2600,Found,1/1/40 0:00,38.53333,-99.05
+Colby (Kansas),5394,Valid,H5,2400,Found,1/1/40 0:00,39.41667,-101.05
+Parma Canyon,18107,Valid,Iron,2150,Found,1/1/40 0:00,43.8,-117
+Briscoe,5142,Valid,L5,1773,Found,1/1/40 0:00,34.35,-101.4
+Fleming,10110,Valid,H3.7,1750,Found,1/1/40 0:00,40.68333,-102.81667
+Akron (1940),430,Valid,H6,1050,Found,1/1/40 0:00,40.15,-103.16667
+Bhola,5040,Valid,LL3-6,1047,Fell,1/1/40 0:00,22.68333,90.65
+Rosamond Dry Lake,22764,Valid,L,850,Found,1/1/40 0:00,34.83333,-118.06667
+Leander,12753,Valid,L4,760,Found,1/1/40 0:00,30.6,-97.9
+Cortez,5449,Valid,H6,715.6,Found,1/1/40 0:00,37.35,-108.68333
+Semarkona,23487,Valid,LL3.00,691,Fell,1/1/40 0:00,22.25,79
+Potter,18878,Valid,L6,261000,Found,1/1/41 0:00,41.23333,-103.3
+Dalgety Downs,5507,Valid,L4,257000,Found,1/1/41 0:00,-25.33333,116.18333
+Vera,24161,Valid,L/LL4,80000,Found,1/1/41 0:00,-29.91667,-60.28333
+Burgavli,5168,Valid,"Iron, IAB-MG",24900,Found,1/1/41 0:00,66.4,137.46667
+Mount Egerton,16774,Valid,Aubrite-an,22000,Found,1/1/41 0:00,-24.76667,117.7
+Phuoc-Binh,18812,Valid,L5,11000,Fell,1/1/41 0:00,15.71667,108.1
+Sidney,23585,Valid,L,6000,Found,1/1/41 0:00,41.05,-102.9
+New Westville,16961,Valid,"Iron, IVA",4800,Found,1/1/41 0:00,39.8,-84.81667
+Hayes Center,11865,Valid,L6,4500,Found,1/1/41 0:00,40.51667,-101.03333
+Seibert (a),23479,Valid,H5,3500,Found,1/1/41 0:00,39.3,-102.83333
+Maridi,15421,Valid,H6,3200,Fell,1/1/41 0:00,4.66667,29.25
+Harding County,11826,Valid,L4,3075,Found,1/1/41 0:00,45.5,-103.5
+Abernathy,7,Valid,L6,2914,Found,1/1/41 0:00,33.85,-101.8
+Chamberlin,5317,Valid,H5,2400,Found,1/1/41 0:00,36.2,-102.45
+Mereta,15488,Valid,H4,1417.5,Found,1/1/41 0:00,31.42611,-100.13333
+Slaton,23625,Valid,L4,1070,Found,1/1/41 0:00,33.43333,-101.75
+Caroline,5279,Valid,H5,800,Found,1/1/41 0:00,-37.98333,140.98333
+Black Moshannan Park,5065,Valid,L5,705,Fell,1/1/41 0:00,40.91667,-78.08333
+Lorenzo,44717,Valid,L5,611.9,Found,1/1/41 0:00,41.03333,-102.88333
+Mafra,15383,Valid,L3-4,600,Fell,1/1/41 0:00,-26.16667,-49.93333
+El Timbu,7820,Valid,Iron,500000,Found,1/1/42 0:00,-33.11667,-60.96667
+Dimmitt,7645,Valid,H3.7,200000,Found,1/1/42 0:00,34.58333,-102.16667
+Aggie Creek,393,Valid,"Iron, IIIAB",43000,Found,1/1/42 0:00,64.88333,-163.16667
+Forest Vale,10120,Valid,H4,26000,Fell,1/1/42 0:00,-33.35,146.85833
+Mount Sir Charles,16803,Valid,"Iron, IVA",22900,Found,1/1/42 0:00,-23.83333,134.03333
+Kapoeta,12251,Valid,Howardite,11355,Fell,1/1/42 0:00,4.7,33.63333
+Edmonton (Kentucky),7771,Valid,"Iron, IAB-sLM",10200,Found,1/1/42 0:00,37.03333,-85.63333
+Ankober,2304,Valid,H4,6500,Fell,1/1/42 0:00,9.53333,39.71667
+Mosca,16755,Valid,L6,6220,Found,1/1/42 0:00,37.63333,-105.83333
+Maziba,15454,Valid,L6,4975,Fell,1/1/42 0:00,-1.21667,30
+San Carlos,23119,Valid,H4,3600,Found,1/1/42 0:00,-35.53333,-58.76667
+Kamalpur,12238,Valid,L6,2770,Fell,1/1/42 0:00,26.03333,81.46667
+Stonington,23727,Valid,H5,2700,Found,1/1/42 0:00,37.28333,-102.2
+Valentine,24148,Valid,L4,2300,Found,1/1/42 0:00,42.93333,-100.75
+Parsa,18109,Valid,EH3,800,Fell,1/1/42 0:00,26.2,85.4
+Moorumbunna,16739,Valid,"Iron, IIIAB",77000,Found,1/1/43 0:00,-28.91667,136.25
+Leedey,12755,Valid,L6,51500,Fell,1/1/43 0:00,35.88333,-99.33333
+Leon,12764,Valid,H5,30000,Found,1/1/43 0:00,37.66667,-96.76667
+Belly River,5007,Valid,H6,7900,Found,1/1/43 0:00,49.5,-113
+Axtell,4911,Valid,CV3,6200,Found,1/1/43 0:00,31.66,-96.97167
+Benoni,5023,Valid,H6,3880,Fell,1/1/43 0:00,-26.16667,28.41667
+Mertzon,15490,Valid,"Iron, IAB-ung",3720,Found,1/1/43 0:00,31.26667,-100.83333
+Duwun,7754,Valid,L6,2117,Fell,1/1/43 0:00,33.43333,127.26667
+Ovid (b),31283,Valid,H5,860,Found,1/1/43 0:00,40.75833,-102.375
+Drum Mountains,7733,Valid,"Iron, IIIAB",529000,Found,1/1/44 0:00,39.5,-112.9
+Twentynine Palms,24089,Valid,L,19700,Found,1/1/44 0:00,34.075,-116.01667
+Dimboola,7643,Valid,H5,16000,Found,1/1/44 0:00,-36.5,142.03333
+Oubari,18049,Valid,LL6,8000,Found,1/1/44 0:00,26.8,13.58333
+Nardoo (no. 1),16910,Valid,H5,3180,Found,1/1/44 0:00,-29.53333,143.98333
+Valdavur,24144,Valid,H6,2799,Fell,1/1/44 0:00,11.98333,79.75
+Wilmot,24280,Valid,H6,2000,Found,1/1/44 0:00,37.38333,-96.86667
+Ultuna,24109,Valid,H,1900,Found,1/1/44 0:00,59.81667,17.66667
+Nardoo (no. 2),16911,Valid,L6,1694,Found,1/1/44 0:00,-29.5,144.06667
+Hallingeberg,11479,Valid,L3.4,1456,Fell,1/1/44 0:00,57.81667,16.23333
+Garden Head,10857,Valid,"Iron, IAB-sHH",1296,Found,1/1/44 0:00,49.81667,-108.46
+Mtola,16820,Valid,Stone-uncl,1100,Fell,1/1/44 0:00,-11.5,33.5
+Lockney,14672,Valid,L6,824,Found,1/1/44 0:00,34.15,-101.3
+Deport (a),6663,Valid,H4,604,Found,1/1/44 0:00,33.51667,-95.3
+Laguna Manantiales,12413,Valid,Iron,92000,Found,1/1/45 0:00,-48.58333,-67.41667
+Isoulane-n-Amahar,12052,Valid,L6,72000,Found,1/1/45 0:00,27.12917,8.66722
+Wynella,24343,Valid,H4,40000,Found,1/1/45 0:00,-28.95,148.13333
+Fuhe,52412,Valid,L5,23000,Fell,1/1/45 0:00,31.47556,113.56694
+Tostado,24033,Valid,H6,22000,Found,1/1/45 0:00,-29.23333,-61.76667
+Norqu’_n,16996,Valid,"Iron, IIIAB",19250,Found,1/1/45 0:00,-37.71667,-70.61667
+Meru,15491,Valid,LL6,6000,Fell,1/1/45 0:00,0,37.66667
+Harrison Township,11843,Valid,L6,3263,Found,1/1/45 0:00,38.33333,-101.71167
+Soroti,23671,Valid,"Iron, ungrouped",2050,Fell,1/1/45 0:00,1.7,33.63333
+Atoka,4888,Valid,L6,1384.2,Fell,1/1/45 0:00,34.31667,-96.15
+Pe’±a Blanca Spring,18786,Valid,Aubrite,70000,Fell,1/1/46 0:00,30.125,-103.11667
+Jenkins,12080,Valid,"Iron, IAB-MG",55400,Found,1/1/46 0:00,36.82444,-93.76111
+Krymka,12364,Valid,LL3.2,50000,Fell,1/1/46 0:00,47.83333,30.76667
+Walters,24210,Valid,L6,28100,Fell,1/1/46 0:00,34.33333,-98.3
+Bursa,5177,Valid,L6,25000,Fell,1/1/46 0:00,40.2,29.23333
+Bluewater,5078,Valid,"Iron, IIIAB",9540,Found,1/1/46 0:00,35.26667,-107.96667
+Binneringie,55546,Valid,H5,9056,Found,1/1/46 0:00,-31.4875,122.12389
+Yudoma,30376,Valid,"Iron, IVA",7600,Found,1/1/46 0:00,60,140
+Krasnyi Klyuch,12357,Valid,H5,4000,Fell,1/1/46 0:00,54.33333,56.08333
+Kinsella,12320,Valid,"Iron, IIIAB",3720,Found,1/1/46 0:00,53.2,-111.43333
+Cockburn,5391,Valid,L6,2460,Found,1/1/46 0:00,-32.13333,141.03333
+Sikhote-Alin,23593,Valid,"Iron, IIAB",23000000,Fell,1/1/47 0:00,46.16,134.65333
+Wolf Creek,24326,Valid,"Iron, IIIAB",760000,Found,1/1/47 0:00,-19.3,127.76667
+Acme,371,Valid,H5,75000,Found,1/1/47 0:00,33.63333,-104.26667
+Harriman (Of),11840,Valid,"Iron, IVA",30000,Found,1/1/47 0:00,35.95,-84.56667
+Casimiro de Abreu,5289,Valid,"Iron, IIIAB",25000,Found,1/1/47 0:00,-22.46667,-42.21667
+Reliegos,22584,Valid,L5,17300,Fell,1/1/47 0:00,42.475,-5.33333
+Hill City,11886,Valid,"Iron, IVA",11700,Found,1/1/47 0:00,39.36667,-99.85
+Eagle,7760,Valid,EL6,10000,Fell,1/1/47 0:00,40.78167,-96.47167
+Kalkaska,12234,Valid,"Iron, IIIAB",9399,Found,1/1/47 0:00,44.64694,-85.13667
+Amherst,2293,Valid,L6,8500,Found,1/1/47 0:00,40.8,-99.2
+Pony Creek,18866,Valid,H4,4642,Found,1/1/47 0:00,31.66333,-99.95
+Penokee,18788,Valid,H5,3580,Found,1/1/47 0:00,39.35,-99.91667
+L’Çnghalsen,12461,Valid,L6,2300,Fell,1/1/47 0:00,58.85,16.73333
+Sand Draw,23134,Valid,H5,1200,Found,1/1/47 0:00,40.81667,-102.25
+Norton County,17922,Valid,Aubrite,1100000,Fell,1/1/48 0:00,39.68333,-99.86667
+Duketon,7740,Valid,"Iron, IIIAB",118300,Found,1/1/48 0:00,-27.5,122.36667
+Rifle,22605,Valid,"Iron, IAB-MG",102700,Found,1/1/48 0:00,38.51667,-107.83333
+Waltman,24211,Valid,L4,23410,Found,1/1/48 0:00,43,-107.16667
+Uzcudun,24140,Valid,L,20000,Fell,1/1/48 0:00,-44.11667,-66.15
+Neenach,16938,Valid,L6,13800,Found,1/1/48 0:00,34.8,-118.5
+Kielpa,12302,Valid,H5,13600,Found,1/1/48 0:00,-33.6,136.1
+Dorrigo,7720,Valid,"Iron, ungrouped",8500,Found,1/1/48 0:00,-30.28333,152.66667
+Ellis County,10022,Valid,H6,4692,Found,1/1/48 0:00,38.78333,-99.33333
+Gail,10843,Valid,H4,4650,Found,1/1/48 0:00,32.7,-101.6
+Mardan,15414,Valid,H5,4500,Fell,1/1/48 0:00,34.23333,72.08333
+Rush County,22785,Valid,H5,4300,Found,1/1/48 0:00,39.5,-85.5
+Bogoslovka,5096,Valid,H5,2180,Found,1/1/48 0:00,52.5,68.8
+Modoc (1948),16712,Valid,H6,1800,Found,1/1/48 0:00,38.5,-101.1
+Olton,18016,Valid,H3.5,953,Found,1/1/48 0:00,34.16722,-102.13361
+Lasher Creek,12735,Valid,Iron,639.5,Found,1/1/48 0:00,42.83333,-74.5
+Kunashak,12377,Valid,L6,200000,Fell,1/1/49 0:00,55.78333,61.36667
+Dimitrovgrad,7644,Valid,"Iron, IIIAB",100000,Found,1/1/49 0:00,43.04639,22.86389
+Dadin,5503,Valid,Iron,27300,Found,1/1/49 0:00,-38.91667,-69.2
+Cocklebiddy,5392,Valid,H5,19500,Found,1/1/49 0:00,-31.93333,126.21667
+Albin (stone),456,Valid,L,15400,Found,1/1/49 0:00,41.41667,-104.1
+Mission,16704,Valid,L,12000,Found,1/1/49 0:00,43.31667,-100.76667
+Rupota,22783,Valid,L4-6,6000,Fell,1/1/49 0:00,-10.26667,38.76667
+Almelo Township,2281,Valid,L5,3180,Found,1/1/49 0:00,39.6,-100.11667
+Benton,5026,Valid,LL6,2840,Fell,1/1/49 0:00,45.95,-67.55
+Briggsdale,5141,Valid,"Iron, IIIAB",2230,Found,1/1/49 0:00,40.66667,-104.31667
+Seligman,23485,Valid,"Iron, IAB-MG",2200,Found,1/1/49 0:00,35.28333,-112.86667
+Mezel,16627,Valid,L6,1300,Fell,1/1/49 0:00,45.76667,3.25
+Guidder,11443,Valid,LL5,968,Fell,1/1/49 0:00,9.91667,13.98333
+Adzhi-Bogdo (stone),390,Valid,LL3-6,910,Fell,1/1/49 0:00,44.83333,95.16667
+Beddgelert,4993,Valid,H5,794,Fell,1/1/49 0:00,53.01667,-4.1
+Akaba,426,Valid,L6,779,Fell,1/1/49 0:00,29.51667,35.05
+Vetluga,24169,Valid,Eucrite-mmict,750,Fell,1/1/49 0:00,57.8,45.8
+Palolo Valley,18082,Valid,H5,682,Fell,1/1/49 0:00,21.3,-157.78333
+Alberta,454,Valid,L,625,Fell,1/1/49 0:00,2,22.66667
+Tambo Quemado,23797,Valid,"Iron, IIIAB",141000,Found,1/1/50 0:00,-14.66667,-74.5
+Belle Plaine,5004,Valid,L6,78800,Found,1/1/50 0:00,37.31667,-97.25
+Hammond Downs,11814,Valid,H4,27000,Found,1/1/50 0:00,-25.46667,142.8
+Murray,16882,Valid,CM2,12600,Fell,1/1/50 0:00,36.6,-88.1
+Densmore (1950),6657,Valid,H6,11300,Found,1/1/50 0:00,39.56583,-99.64722
+Vengerovo,24158,Valid,H5,10800,Fell,1/1/50 0:00,56.13333,77.26667
+Barwise,4955,Valid,H5,10400,Found,1/1/50 0:00,34,-101.5
+Withrow,24320,Valid,"Iron, IIIAB?",8732,Found,1/1/50 0:00,47.70667,-119.83
+Kingfisher,12317,Valid,L5,8180,Found,1/1/50 0:00,35.83333,-97.93333
+Melvern Lake,15477,Valid,H5,7746,Found,1/1/50 0:00,38.525,-95.78056
+Clinton,5381,Valid,Iron,7700,Found,1/1/50 0:00,36.08333,-84.2
+Arroyo Aguiar,2340,Valid,H5,7450,Fell,1/1/50 0:00,-31.41667,-60.66667
+Keen Mountain,12271,Valid,"Iron, IIAB",6690,Found,1/1/50 0:00,37.21667,-82
+Haven,11858,Valid,H6,6100,Found,1/1/50 0:00,37.96417,-97.75583
+Kuga,12367,Valid,"Iron, IIIAB",5600,Found,1/1/50 0:00,34.1,132.08333
+Monte das Fortes,16725,Valid,L5,4885,Fell,1/1/50 0:00,38.01667,-8.25
+Plainview (1950),18842,Valid,H,2200,Found,1/1/50 0:00,34.11667,-101.78333
+Patrimonio,18116,Valid,L6,2121,Fell,1/1/50 0:00,-19.53333,-48.56667
+Sterley,56575,Valid,"Pallasite, PMG",1724.8,Found,1/1/50 0:00,34.21,-101.39
+Santa Rosalia,23168,Valid,"Pallasite, PMG",1631,Found,1/1/50 0:00,27.33333,-112.33333
+Gahanna,10842,Valid,"Iron, IAB-MG",1201,Found,1/1/50 0:00,40.01667,-82.86667
+Madhipura,15379,Valid,L,1000,Fell,1/1/50 0:00,25.91667,86.36667
+St. Louis,23089,Valid,H4,1000,Fell,1/1/50 0:00,38.7,-90.23333
+Miller (Kansas),16646,Valid,H4,970,Found,1/1/50 0:00,38.625,-96.02278
+Geidam,10870,Valid,H5,725,Fell,1/1/50 0:00,12.91667,11.91667
+Bealiba,4981,Valid,L6,652,Found,1/1/50 0:00,-36.8,143.55
+Esquel,10054,Valid,"Pallasite, PMG",755000,Found,1/1/51 0:00,-42.9,-71.33333
+Haig,11471,Valid,"Iron, IIIAB",503000,Found,1/1/51 0:00,-31.38333,125.63333
+Elenovka,7824,Valid,L5,54640,Fell,1/1/51 0:00,47.83333,37.66667
+Richland,22601,Valid,"Iron, IIAB",50600,Found,1/1/51 0:00,31.9,-96.4
+Abbott,5,Valid,H3-6,21100,Found,1/1/51 0:00,36.3,-104.28333
+Benthullen,5025,Valid,L6,17000,Found,1/1/51 0:00,53.05,8.1
+Hesston,11879,Valid,L6,12900,Found,1/1/51 0:00,38.11667,-97.43333
+Kress (a),12358,Valid,L6,12500,Found,1/1/51 0:00,34.35833,-101.73
+Chico Hills,5347,Valid,H4,8030,Found,1/1/51 0:00,36,-104.5
+Manych,15409,Valid,LL3.4,3555,Fell,1/1/51 0:00,45.81667,44.63333
+Willowdale,24279,Valid,H4,3000,Found,1/1/51 0:00,37.53333,-98.36667
+Dubrovnik,7736,Valid,L3-6,1900,Fell,1/1/51 0:00,42.45833,18.44167
+Kalaba,12232,Valid,H4,950,Fell,1/1/51 0:00,-6.83333,29.5
+Aarhus,2,Valid,H6,720,Fell,1/1/51 0:00,56.18333,10.23333
+Adzhi-Bogdo (iron),389,Valid,"Iron, IAB complex",582000,Found,1/1/52 0:00,44.86667,95.41667
+Abee,6,Valid,EH4,107000,Fell,1/1/52 0:00,54.21667,-113
+Faith,10071,Valid,H5,105000,Found,1/1/52 0:00,45.33333,-102.08333
+View Hill,24173,Valid,"Iron, IIIAB",33600,Found,1/1/52 0:00,-43.32,172.06333
+Picacho,18814,Valid,"Iron, IIIAB",22000,Found,1/1/52 0:00,33.2,-105
+Klamath Falls,12330,Valid,"Iron, IIIF",17000,Found,1/1/52 0:00,42.16667,-121.85
+Avanhandava,4905,Valid,H4,9330,Fell,1/1/52 0:00,-21.46028,-49.95083
+Min-Fan-Zhun,16697,Valid,LL6,5500,Fell,1/1/52 0:00,32.33333,120.66667
+Fort Stockton,10168,Valid,Iron,4762.8,Found,1/1/52 0:00,30.91667,-103.06667
+Ozren,18067,Valid,"Iron, IAB-MG",3900,Found,1/1/52 0:00,44.6125,18.41806
+El-Oued,47729,Valid,H4,2305,Found,1/1/52 0:00,31.533333,8.883333
+Sublette,23735,Valid,L6,1300,Found,1/1/52 0:00,37.5,-100.83333
+Zavetnoe,30395,Valid,L6,800,Fell,1/1/52 0:00,47.13333,43.9
+Woodbine,24330,Valid,"Iron, IAB-ung",48200,Found,1/1/53 0:00,42.34667,-90.1675
+Turtle River,24085,Valid,"Iron, IIIAB",22390,Found,1/1/53 0:00,47.6,-94.76667
+Ventura,24159,Valid,"Iron, IAB-ung",7700,Found,1/1/53 0:00,34.25,-119.3
+Lombard,14679,Valid,"Iron, IIAB",7000,Found,1/1/53 0:00,46.1,-111.4
+Dresden (Kansas),7730,Valid,H5,6760,Found,1/1/53 0:00,39.61667,-100.46306
+Roper River,22763,Valid,"Iron, IIIAB",6400,Found,1/1/53 0:00,-15,135
+Ghubara,10911,Valid,L5,1750000,Found,1/1/54 0:00,19.22778,56.14278
+Manlai,15407,Valid,"Iron, ungrouped",166800,Found,1/1/54 0:00,44.33333,106.5
+Chico,5346,Valid,L6,104800,Found,1/1/54 0:00,36.5,-104.2
+Palmas de Monte Alto,48959,Valid,"Iron, IIIAB",97000,Found,1/1/54 0:00,-14.3675,-43.02278
+Yangchiang,30348,Valid,H5,20000,Fell,1/1/54 0:00,21.83333,111.83333
+Pinto Mountains,18829,Valid,L6,17900,Found,1/1/54 0:00,34,-115.78333
+Umbarger,24113,Valid,L6,13000,Found,1/1/54 0:00,34.95,-102.1175
+Clover Springs,5384,Valid,Mesosiderite-A2,7700,Found,1/1/54 0:00,34.45,-111.36667
+Flagg,10108,Valid,L5,7000,Found,1/1/54 0:00,34.43333,-102.51667
+Jerome (Idaho),12082,Valid,L,6800,Found,1/1/54 0:00,42.63333,-114.83333
+Nikolskoe,16977,Valid,L4,6000,Fell,1/1/54 0:00,56.11667,37.33333
+Sylacauga,23773,Valid,H4,5560,Fell,1/1/54 0:00,33.18836,-86.2945
+Giroux,10918,Valid,"Pallasite, PMG",4275,Found,1/1/54 0:00,49.61667,-96.55
+Palo Blanco Creek,18080,Valid,Eucrite-mmict,1482,Found,1/1/54 0:00,36.5,-104.5
+Ishinga,12049,Valid,H,1300,Fell,1/1/54 0:00,-8.93333,33.8
+Tarfa,23879,Valid,L6,1040,Found,1/1/54 0:00,19.5,55.5
+Arbol Solo,2325,Valid,H5,810,Fell,1/1/54 0:00,-33,-66
+Point of Rocks (stone),18856,Valid,L6,800,Found,1/1/54 0:00,36.5,-104.5
+Gressk,11200,Valid,"Iron, IIAB",303000,Found,1/1/55 0:00,53.23333,27.33333
+Thule,23977,Valid,"Iron, IIIAB",48600,Found,1/1/55 0:00,76.53333,-67.55
+Lakewood,12450,Valid,L6,46500,Found,1/1/55 0:00,32.62972,-104.35
+Bellsbank,5006,Valid,"Iron, IIG",38000,Found,1/1/55 0:00,-28.08333,24.08333
+Wellington,24236,Valid,H5,13400,Found,1/1/55 0:00,34.95,-100.25
+Aswan,4882,Valid,"Iron, IAB-ung",12000,Found,1/1/55 0:00,23.98611,32.62361
+Edmonson (a),7768,Valid,L6,12000,Found,1/1/55 0:00,34.28333,-101.83333
+al-Jimshan,473,Valid,H4,11450,Found,1/1/55 0:00,20.7,52.83333
+Dora (pallasite),7712,Valid,"Pallasite, PMG",7600,Found,1/1/55 0:00,33.92667,-103.955
+Mayday,15448,Valid,H4,6900,Found,1/1/55 0:00,39.47444,-96.925
+Hope,11905,Valid,"Iron, IAB-MG",6800,Found,1/1/55 0:00,33.68333,-93.6
+Twin City,24090,Valid,"Iron, IAB-ung",5130,Found,1/1/55 0:00,32.58333,-82.01667
+Zenda,30400,Valid,"Iron, IAB complex",3700,Found,1/1/55 0:00,42.51333,-88.48944
+Karloowala,12263,Valid,L6,2950,Fell,1/1/55 0:00,31.58333,71.6
+Marion (Kansas),15425,Valid,L5,2890,Found,1/1/55 0:00,38.36667,-97.03333
+Zvonkov,30415,Valid,H6,2568,Fell,1/1/55 0:00,50.2,30.25
+Messina,15495,Valid,L5,2405,Fell,1/1/55 0:00,38.18333,15.56667
+Lahrauli,12433,Valid,Ureilite,900,Fell,1/1/55 0:00,26.78333,82.71667
+Cottonwood,5455,Valid,H5,800,Found,1/1/55 0:00,34.83333,-112.01667
+Bondoc,5103,Valid,Mesosiderite-B4,888600,Found,1/1/56 0:00,13.51667,122.45
+Tianlin,23983,Valid,"Iron, IAB complex",300000,Found,1/1/56 0:00,24.3,106.1
+Tamir-Tsetserleg,23799,Valid,Stone-uncl,173000,Found,1/1/56 0:00,47.45,101.47917
+Paranaiba,18103,Valid,L6,100000,Fell,1/1/56 0:00,-19.13333,-51.66667
+Nicol’s Levalle,52413,Valid,L5,60000,Found,1/1/56 0:00,-38.85028,-62.87889
+Dumas (a),7741,Valid,H5,46050,Found,1/1/56 0:00,35.9,-101.9
+La Villa,12405,Valid,H4,19800,Found,1/1/56 0:00,26.27167,-97.90167
+Point of Rocks (iron),18855,Valid,"Iron, IIIAB",18000,Found,1/1/56 0:00,36.5,-104.5
+Zerkaly,31354,Valid,H5,16000,Found,1/1/56 0:00,52.13333,81.96667
+Kaldoonera Hill,12233,Valid,H6,12000,Found,1/1/56 0:00,-32.61667,134.85
+Lake Grace,12443,Valid,L6,10500,Found,1/1/56 0:00,-33.06667,118.21667
+Nadiabondi,16889,Valid,H5,8165,Fell,1/1/56 0:00,12,1
+Kybunga,12388,Valid,L5,7900,Found,1/1/56 0:00,-33.9,138.48333
+Idutywa,12000,Valid,H5,3457,Fell,1/1/56 0:00,-32.1,28.33333
+Comanche (stone),5415,Valid,L5,2400,Found,1/1/56 0:00,31.99167,-98.65167
+Sinnai,23613,Valid,H6,2000,Fell,1/1/56 0:00,39.3,9.2
+Walltown,24208,Valid,L6,1600,Found,1/1/56 0:00,37.325,-84.71667
+Breitscheid,5134,Valid,H5,1500,Fell,1/1/56 0:00,50.66694,8.18361
+Trifir,24052,Valid,L6,1000,Found,1/1/56 0:00,20.05,-1.68333
+Seguin,23478,Valid,H6,750,Found,1/1/56 0:00,39.36667,-100.63333
+South Dahna,23677,Valid,"Iron, IAB complex",275000,Found,1/1/57 0:00,22.56667,48.3
+Shangdu,23523,Valid,"Iron, IIIAB",247000,Found,1/1/57 0:00,42.5,114
+Ider,11999,Valid,"Iron, IIIAB",140000,Found,1/1/57 0:00,34.68333,-85.65
+Forestburg (b),10122,Valid,L5,26600,Found,1/1/57 0:00,33.49556,-97.58861
+Forestburg (a),10121,Valid,L4,26100,Found,1/1/57 0:00,33.50667,-97.65139
+Susuman,23762,Valid,"Iron, IIIAB",18900,Found,1/1/57 0:00,62.72139,148.13028
+St. Peter,23094,Valid,L5,6800,Found,1/1/57 0:00,39.4,-100.03333
+Raco,22368,Valid,H5,5000,Fell,1/1/57 0:00,-26.66667,-65.45
+Yorktown (Texas),30371,Valid,H5,3500,Found,1/1/57 0:00,28.95,-97.40278
+Ibitira,11993,Valid,Eucrite-mmict,2500,Fell,1/1/57 0:00,-20,-45
+Jiddat al Harasis,12089,Valid,H4,1400,Found,1/1/57 0:00,19.25,56.06667
+Canyon,5255,Valid,H?,860,Found,1/1/57 0:00,34.96667,-101.93333
+Nantan,16906,Valid,"Iron, IAB-MG",9500000,Found,1/1/58 0:00,25.1,107.7
+Santiago Papasquiero,23169,Valid,"Iron, ungrouped",119500,Found,1/1/58 0:00,24.5,-106
+Calliham,5201,Valid,L6,40000,Found,1/1/58 0:00,28.41667,-98.25
+Belmont,5008,Valid,H6,25300,Found,1/1/58 0:00,42.73333,-90.35
+Bison,5061,Valid,LL6,11000,Found,1/1/58 0:00,38.30667,-99.71
+Sombrerete,23664,Valid,"Iron, IAB-sHL",10000,Found,1/1/58 0:00,23.63333,-103.66667
+Crow Peak,44709,Valid,"Iron, IIAB",6320,Found,1/1/58 0:00,44.47733,-103.972
+Ramsdorf,22386,Valid,L6,4682,Fell,1/1/58 0:00,51.88333,6.93333
+Hajmah (c),11476,Valid,L5/6,1132,Found,1/1/58 0:00,19.91667,56.25
+Hajmah (b),11475,Valid,L6,890.6,Found,1/1/58 0:00,19.91667,56.25
+Bir Hadi,5053,Valid,H5,855,Found,1/1/58 0:00,19.41667,51.03333
+Massenya,15442,Valid,H5,612.4,Found,1/1/58 0:00,11.35,16.15
+Hajmah (a),11474,Valid,Ureilite,596,Found,1/1/58 0:00,19.91667,56.25
+Liangcheng,14645,Valid,"Iron, IIIAB",200000,Found,1/1/59 0:00,40.5,112.5
+Yardymly,30352,Valid,"Iron, IAB complex",150200,Fell,1/1/59 0:00,38.93333,48.25
+Alatage,452,Valid,"Iron, IIIAB",37500,Found,1/1/59 0:00,42.33333,93
+Elga,10012,Valid,"Iron, IIE",28800,Found,1/1/59 0:00,64.7,141.2
+Lismore,14660,Valid,"Iron, IIIAB?",10000,Found,1/1/59 0:00,-35.95,143.33333
+Pribram,18887,Valid,H5,5555,Fell,1/1/59 0:00,49.66667,14.03333
+Temple,23894,Valid,L6,5000,Found,1/1/59 0:00,31.11667,-97.3
+Hamlet,11485,Valid,LL4,3710,Fell,1/1/59 0:00,41.38333,-86.6
+Cee Vee,5305,Valid,H5,3600,Found,1/1/59 0:00,34.2,-100.48333
+Akwanga,432,Valid,H,3000,Fell,1/1/59 0:00,8.91667,8.43333
+Bagdad,4920,Valid,"Iron, IIIAB",2200,Found,1/1/59 0:00,34.613317,-113.398967
+Algarrobo,467,Valid,"Iron, IAB-ung",1280,Found,1/1/59 0:00,-27.08333,-70.58333
+Millbillillie,16643,Valid,Eucrite-mmict,330000,Fell,1/1/60 0:00,-26.45,120.36667
+Bruderheim,5156,Valid,L6,303000,Fell,1/1/60 0:00,53.9,-112.88333
+Woolgorong,24334,Valid,L6,36000,Fell,1/1/60 0:00,-27.75,115.83333
+Muenatauray,16842,Valid,"Iron, IIAB",30000,Found,1/1/60 0:00,4.9,-61.2
+Cleo Springs,5378,Valid,H4,24000,Found,1/1/60 0:00,36.43333,-98.43333
+De Hoek,6622,Valid,"Iron, ungrouped",20930,Found,1/1/60 0:00,-29.38333,23.1
+Ellicott,10021,Valid,"Iron, IAB-ung",15700,Found,1/1/60 0:00,38.80778,-104.56944
+S’£o Jo’£o Nepomuceno,23170,Valid,"Iron, IVA-an",15300,Found,1/1/60 0:00,-21.55,-43.01667
+as-Su'aydan,2354,Valid,L5,5855,Found,1/1/60 0:00,21.25417,55.305
+Arrabury,2337,Valid,H6,5300,Found,1/1/60 0:00,-26.5,141.08333
+Watonga,55758,Valid,LL3.1,5025,Found,1/1/60 0:00,35.833333,-98.4
+Stoneham,31330,Valid,H5,5000,Found,1/1/60 0:00,40.63783,-103.69717
+al-Ghanim (stone),469,Valid,L6,3755,Found,1/1/60 0:00,19.7,53.96667
+Itutinga,12059,Valid,"Iron, IIIAB",3200,Found,1/1/60 0:00,-21.33333,-44.66667
+Odessa (stone),17986,Valid,H4,1926,Found,1/1/60 0:00,46.5,30.76667
+Brownfield (iron),5154,Valid,"Iron, IID",1626,Found,1/1/60 0:00,33.21667,-102.18333
+Selden,23484,Valid,LL5,1560,Found,1/1/60 0:00,39.53333,-100.56667
+Richa,22598,Valid,"Iron, IID",1500,Found,1/1/60 0:00,10,9
+Venus,24160,Valid,H4,1013,Found,1/1/60 0:00,32.4,-97.08333
+Barbianello,4941,Valid,"Iron, ungrouped",860,Found,1/1/60 0:00,45.05778,9.19556
+Um Habib,24111,Valid,L6,696,Found,1/1/60 0:00,21.5,50.5
+Clovis (no. 1),5385,Valid,H3.6,283000,Found,1/1/61 0:00,34.3,-103.13472
+ad-Dahbubah,376,Valid,H5,90000,Found,1/1/61 0:00,19.83333,51.25
+Kayakent,12268,Valid,"Iron, IIIAB",85000,Fell,1/1/61 0:00,39.26333,31.78
+Seminole,23488,Valid,H4,43900,Found,1/1/61 0:00,32.68333,-102.61667
+Kargapole,12261,Valid,H4,21800,Found,1/1/61 0:00,55.88333,64.3
+Duncanville,7744,Valid,H,17800,Found,1/1/61 0:00,32.63333,-96.86667
+Caldwell,5197,Valid,L-imp melt,12900,Found,1/1/61 0:00,37.03333,-97.625
+Lazarev,12745,Valid,"Iron, ungrouped",10000,Found,1/1/61 0:00,-71.95,11.5
+Harleton,11830,Valid,L6,8360,Fell,1/1/61 0:00,32.675,-94.51167
+Kennard,12279,Valid,H5,8200,Found,1/1/61 0:00,41.48333,-96.16667
+Leoville,12766,Valid,CV3,8100,Found,1/1/61 0:00,39.63333,-100.46722
+Rhineland,22595,Valid,H5,6240,Found,1/1/61 0:00,33.53333,-99.61667
+Akron (1961),431,Valid,L6,4000,Found,1/1/61 0:00,40.15,-103.16667
+Djermaia,7656,Valid,H,3950,Fell,1/1/61 0:00,12.73333,15.05
+Lake Bonney,12436,Valid,L6,2750,Found,1/1/61 0:00,-37.75,140.3
+Batesland,4973,Valid,H5,2500,Found,1/1/61 0:00,43.13333,-102.1
+Ehole,7774,Valid,H5,2400,Fell,1/1/61 0:00,-17.3,15.83333
+Eunice,10064,Valid,H5,2300,Found,1/1/61 0:00,34.47,-101.75833
+Sweetwater,23770,Valid,H5,1760,Found,1/1/61 0:00,32.55,-100.41667
+Canyonlands,5258,Valid,H6,1520,Found,1/1/61 0:00,38.18333,-109.88333
+Anoka,2307,Valid,"Iron, IAB-sLM",1108,Found,1/1/61 0:00,45.2,-93.43333
+North Haig,17004,Valid,Ureilite-pmict,964,Found,1/1/61 0:00,-30.21667,126.21667
+ash-Shalfah,2350,Valid,L4,935,Found,1/1/61 0:00,21.875,49.71944
+Budulan,5161,Valid,Mesosiderite-B4,100000,Found,1/1/62 0:00,50.56667,114.9
+Hunter,11987,Valid,LL5,74600,Found,1/1/62 0:00,36.56,-97.66667
+Needles,16936,Valid,"Iron, IID",45300,Found,1/1/62 0:00,34.44417,-114.8325
+Manitouwabing,15406,Valid,"Iron, IIIAB",39000,Found,1/1/62 0:00,45.44,-79.87556
+Rowena,22772,Valid,H6,34700,Found,1/1/62 0:00,-29.8,148.63333
+Thiel Mountains,23911,Valid,"Pallasite, PMG",31700,Found,1/1/62 0:00,-85.45,-90
+Desuri,6693,Valid,H6,25400,Fell,1/1/62 0:00,25.73333,73.61667
+Efremovka,7772,Valid,CV3,21000,Found,1/1/62 0:00,52.5,77
+Two Buttes (a),24091,Valid,H5,19700,Found,1/1/62 0:00,37.63333,-102.41667
+Vulcan,24192,Valid,H6,19000,Found,1/1/62 0:00,50.51667,-113.13333
+Zagami,30386,Valid,Martian (shergottite),18000,Fell,1/1/62 0:00,11.73333,7.08333
+Emery,10031,Valid,Mesosiderite-A3,16700,Found,1/1/62 0:00,43.56333,-97.58333
+Seagraves,23469,Valid,H4,13000,Found,1/1/62 0:00,32.93333,-102.58333
+Clifford,5380,Valid,L6,11360,Found,1/1/62 0:00,39.1,-103.25833
+Finney,10104,Valid,L5,10700,Found,1/1/62 0:00,34.26667,-101.56667
+Shields,23533,Valid,H5,9780,Found,1/1/62 0:00,38.7,-100.35
+Bogou,5097,Valid,"Iron, IAB-MG",8800,Fell,1/1/62 0:00,12.5,0.7
+Slovak,23647,Valid,H5,8220,Found,1/1/62 0:00,34.65,-91.58333
+Williston,24275,Valid,"Iron, IIIAB",7645,Found,1/1/62 0:00,47.98333,-103.65
+Coonana,5437,Valid,H4,6800,Found,1/1/62 0:00,-29.85,140.7
+Loop,14702,Valid,L6,5600,Found,1/1/62 0:00,32.9,-102.28333
+Ste. Marguerite,23099,Valid,H4,4960,Fell,1/1/62 0:00,50.76667,3
+Valkeala,24150,Valid,L6,4000,Found,1/1/62 0:00,61.05,26.83333
+Acomita,372,Valid,"Pallasite, PMG",3956,Found,1/1/62 0:00,35.05,-107.56667
+Balfour Downs,4927,Valid,"Iron, IAB-sLL",2400,Found,1/1/62 0:00,-22.75,120.83333
+Bowesmont,5124,Valid,L6,2270,Found,1/1/62 0:00,48.68333,-97.16667
+Sleeper Camp 001,23627,Valid,L6,1250,Found,1/1/62 0:00,-30.25,126.33333
+Dosso,7722,Valid,L6,1250,Fell,1/1/62 0:00,13.05,3.16667
+Toulon,24035,Valid,H5,1214.5,Found,1/1/62 0:00,41.11667,-89.80833
+Sierra County,23589,Valid,H5,1000,Found,1/1/62 0:00,33,-107.5
+S’£o Jose do Rio Preto,23171,Valid,H4,927,Fell,1/1/62 0:00,-20.81,-49.38056
+Billygoat Donga,5048,Valid,L6,893,Found,1/1/62 0:00,-30.13333,126.36667
+Kiel,12301,Valid,L6,737.6,Fell,1/1/62 0:00,54.4,10.15
+Carnegie,5278,Valid,L6,132700,Found,1/1/63 0:00,35.16667,-98.64389
+Warburton Range,24212,Valid,"Iron, IVB",56930,Found,1/1/63 0:00,-26.28333,126.66667
+Peace River,18180,Valid,L6,45760,Fell,1/1/63 0:00,56.13333,-117.93333
+Clovis (no. 2),5386,Valid,L6,41300,Found,1/1/63 0:00,34.3,-103.13333
+Lahoma,12432,Valid,L5,21800,Found,1/1/63 0:00,36.38333,-98.08333
+Hassayampa,11851,Valid,H4,16000,Found,1/1/63 0:00,33.75,-112.66667
+Talpa,23793,Valid,H6,13000,Found,1/1/63 0:00,31.86667,-99.58333
+Waka,24200,Valid,H6,11875,Found,1/1/63 0:00,36.15,-101.05
+Mulberry Draw,16845,Valid,L5,9716,Found,1/1/63 0:00,35.63333,-100.13333
+Ohuma,17996,Valid,L5,7700,Fell,1/1/63 0:00,6.75,8.5
+Salla,23110,Valid,L6,7000,Found,1/1/63 0:00,66.8,28.45
+Fremont Butte,10181,Valid,L4,6647,Found,1/1/63 0:00,38.5,-105.5
+Tobe,24014,Valid,H4,5386,Found,1/1/63 0:00,37.2,-103.58333
+Inner Mongolia,12037,Valid,L6,3000,Fell,1/1/63 0:00,41,112
+Karatu,12258,Valid,LL6,2220,Fell,1/1/63 0:00,-3.5,35.58333
+Atwood,4891,Valid,L6,2100,Found,1/1/63 0:00,40.51667,-103.26667
+Mosquero,16757,Valid,H4,1800,Found,1/1/63 0:00,35.75,-103.93333
+Jonah,12200,Valid,H5,1304,Found,1/1/63 0:00,30.625,-97.53333
+Usti Nad Orlici,24132,Valid,L6,1269,Fell,1/1/63 0:00,49.975,16.375
+Buckleboo,5160,Valid,H6,992,Found,1/1/63 0:00,-32.95556,136.1375
+Mulga (south),16848,Valid,H4,894,Found,1/1/63 0:00,-30.2,126.36667
+Plainview (c),18843,Valid,OC,631,Found,1/1/63 0:00,34.125,-101.75667
+Yingde,30363,Valid,"Iron, IVA",3000000,Found,1/1/64 0:00,24.2,113.4
+Mount Padbury,16785,Valid,Mesosiderite-A1,272000,Found,1/1/64 0:00,-25.66667,118.1
+Wellman (c),24239,Valid,H4,45000,Found,1/1/64 0:00,33.03333,-102.33333
+Plains,18839,Valid,H5,34300,Found,1/1/64 0:00,33.28333,-102.76667
+Changxing,5323,Valid,H5,27900,Found,1/1/64 0:00,31.33333,121.66667
+Mulga (north),16847,Valid,H6,19900,Found,1/1/64 0:00,-30.18333,126.36667
+Sargiin Gobi,23179,Valid,"Iron, IAB complex",17500,Found,1/1/64 0:00,45.9835,105.75883
+Claytonville,5375,Valid,L5,15600,Found,1/1/64 0:00,34.34667,-101.49
+Mayerthorpe,15449,Valid,"Iron, IAB complex",12610,Found,1/1/64 0:00,53.775,-115.03333
+Karasburg,12257,Valid,"Iron, IIIAB?",12000,Found,1/1/64 0:00,-27.66667,18.96667
+Corowa,5446,Valid,"Iron, IIF",11340,Found,1/1/64 0:00,-36,146.36667
+Muslyumovo,16884,Valid,H4,10580,Found,1/1/64 0:00,55.3,53.2
+Granes,10956,Valid,L6,9000,Fell,1/1/64 0:00,42.9,2.25
+Frenchman Bay,10182,Valid,H3.5,8800,Found,1/1/64 0:00,-30.60833,115.16667
+Sutton,23763,Valid,H5,7600,Found,1/1/64 0:00,40.6,-97.86667
+Chernyi Bor,5339,Valid,H4,6000,Fell,1/1/64 0:00,53.7,30.1
+Grassland,10959,Valid,L4,4400,Found,1/1/64 0:00,33.11667,-101.58333
+Brownfield (1964),5152,Valid,H5,4100,Found,1/1/64 0:00,33.21667,-102.18333
+’öanakkale,5250,Valid,L6,4000,Fell,1/1/64 0:00,39.8,26.6
+Loop (b),14703,Valid,H,1600,Found,1/1/64 0:00,32.99167,-102.38833
+Muzaffarpur,16885,Valid,"Iron, IAB-sHL",1245,Fell,1/1/64 0:00,26.13333,85.53333
+Neptune Mountains,16944,Valid,"Iron, IAB complex",1070,Found,1/1/64 0:00,-83.25,-55
+Loop (c),14704,Valid,OC,861,Found,1/1/64 0:00,32.98333,-102.38833
+Etter,10062,Valid,L5,450000,Found,1/1/65 0:00,35.98333,-101.9
+Tishomingo,24010,Valid,"Iron, ungrouped",260000,Found,1/1/65 0:00,34.25,-96.68333
+Bocaiuva,5092,Valid,"Iron, ungrouped",64000,Found,1/1/65 0:00,-17.16667,-43.83333
+Barwell,4954,Valid,L5,44000,Fell,1/1/65 0:00,52.56528,-1.33972
+Anton,2311,Valid,H4,41800,Found,1/1/65 0:00,33.7825,-102.18111
+Hebron,11867,Valid,H6,21820,Found,1/1/65 0:00,40.16667,-97.6
+Conquista,5418,Valid,H4,20350,Fell,1/1/65 0:00,-19.85,-47.55
+Moorabie,16735,Valid,L3.8-an,14040,Found,1/1/65 0:00,-30.01667,141.06667
+Verissimo,24163,Valid,"Iron, IIIAB",14000,Found,1/1/65 0:00,-19.73333,-48.31667
+Little River (b),14666,Valid,H4/5,11700,Found,1/1/65 0:00,38.44,-98.06667
+Springer,23688,Valid,H5,8143,Found,1/1/65 0:00,36.34611,-97.185
+Kyle,12389,Valid,L6,7780,Found,1/1/65 0:00,29.975,-97.86667
+Eva,10066,Valid,H5,6700,Found,1/1/65 0:00,36.81667,-101.90833
+Wallareenya,24207,Valid,"Iron, IIIAB",4386,Found,1/1/65 0:00,-20.66667,118.83333
+Lone Star,14682,Valid,H4,4300,Found,1/1/65 0:00,34.25972,-101.40833
+Norristown,16997,Valid,"Iron, IIIAB",4200,Found,1/1/65 0:00,32.51667,-82.55
+Catherwood,5298,Valid,L6,3920,Found,1/1/65 0:00,51.965,-107.43833
+Taonan,23873,Valid,L5,3850,Fell,1/1/65 0:00,45.4,122.9
+McCook,15459,Valid,L6,3602,Found,1/1/65 0:00,40.02,-100.78333
+Del Rio,6639,Valid,"Iron, IIF",3596,Found,1/1/65 0:00,29.36667,-100.96667
+Erie,10045,Valid,L6,3300,Found,1/1/65 0:00,40.03167,-105.05667
+Hamilton (Texas),11484,Valid,OC,2700,Found,1/1/65 0:00,31.59333,-98.25
+St. Lawrence,23088,Valid,LL6,2600,Found,1/1/65 0:00,31.73333,-101.505
+Burnabbie,5173,Valid,H5,2515,Found,1/1/65 0:00,-32.05,126.16667
+Ferintosh,10090,Valid,OC,2201,Found,1/1/65 0:00,52.8,-112.98333
+Monturaqui,16731,Valid,"Iron, IAB?",2000,Found,1/1/65 0:00,-23.93333,-68.28333
+Post,18877,Valid,L,2000,Found,1/1/65 0:00,33.11667,-101.38333
+Kinley,12319,Valid,L6,2000,Found,1/1/65 0:00,52.04667,-107.23333
+Thurman,23980,Valid,OC,1959,Found,1/1/65 0:00,39.52167,-103.16667
+Kaffir (a),12223,Valid,L5,1874.9,Found,1/1/65 0:00,34.62333,-101.91667
+Severny Kolchim,23507,Valid,H3,1390,Found,1/1/65 0:00,60.5,57
+Seminole (b),23489,Valid,H4,1184,Found,1/1/65 0:00,32.54333,-102.705
+Tierra Blanca,23988,Valid,Winonaite,860,Found,1/1/65 0:00,34.93333,-102.01667
+Zhigansk,30405,Valid,"Iron, IIIAB",900000,Found,1/1/66 0:00,68,128.3
+Saint-S’©verin,23102,Valid,LL6,271000,Fell,1/1/66 0:00,45.3,0.23333
+Faucett,10077,Valid,H5,100000,Found,1/1/66 0:00,39.61667,-94.86667
+Hamilton (Queensland),11483,Valid,L6,68000,Found,1/1/66 0:00,-28.48333,148.25
+Avoca (Western Australia),4909,Valid,"Iron, IIIAB",37850,Found,1/1/66 0:00,-30.85,122.31667
+Seoni,23500,Valid,H6,20000,Fell,1/1/66 0:00,21.68389,79.50083
+Floyd,10113,Valid,L4,13000,Found,1/1/66 0:00,34.19333,-103.575
+Albion,457,Valid,"Iron, IVA",12280,Found,1/1/66 0:00,46.83333,-117.25
+Inman,12036,Valid,L/LL3.4,7250,Found,1/1/66 0:00,38.25,-97.66667
+Yocemento,30364,Valid,L4,5920,Found,1/1/66 0:00,38.9,-99.43333
+Elba,7821,Valid,H5,4175,Found,1/1/66 0:00,39.83333,-103.21667
+Skiff,23622,Valid,H4,3540,Found,1/1/66 0:00,49.25,-111.86667
+Kaffir (b),12224,Valid,H4,3500,Found,1/1/66 0:00,34.67167,-101.815
+Pavel,18173,Valid,H5,2968,Fell,1/1/66 0:00,43.46667,25.51667
+Kress (b),12359,Valid,L4,2600,Found,1/1/66 0:00,34.35833,-101.73
+Kramer Creek,12354,Valid,L4,2300,Found,1/1/66 0:00,38.3925,-104.17667
+Umm Ruaba,24118,Valid,L5,1700,Fell,1/1/66 0:00,13.46667,31.21667
+Wellman (d),24240,Valid,H,1615,Found,1/1/66 0:00,33.01667,-102.36667
+Pep,18791,Valid,OC,591,Found,1/1/66 0:00,33.73,-102.57667
+Zerhamra,30403,Valid,"Iron, IIIAB-an",630000,Found,1/1/67 0:00,29.85861,-2.645
+Seymchan,23510,Valid,"Pallasite, PMG",323300,Found,1/1/67 0:00,62.9,152.43333
+Nova Petropolis,17928,Valid,"Iron, IIIAB",305000,Found,1/1/67 0:00,-29.43333,-50.91667
+Wiluna,24281,Valid,H5,150000,Fell,1/1/67 0:00,-26.59278,120.32833
+Tiberrhamine,23985,Valid,L6,107000,Found,1/1/67 0:00,28.11667,0.53333
+Markovka,15427,Valid,H4,54200,Found,1/1/67 0:00,52.4,79.8
+Mossgiel,16758,Valid,L4,32383,Found,1/1/67 0:00,-33.31667,144.78333
+Credo,5468,Valid,L6,10820,Found,1/1/67 0:00,-30.36667,120.73333
+Tugalin-Bulen,24062,Valid,H6,10000,Fell,1/1/67 0:00,45.46667,105.38333
+Fluvanna (a),10116,Valid,L5,9500,Found,1/1/67 0:00,32.8,-101.11667
+Armel,2336,Valid,L5,9200,Found,1/1/67 0:00,39.76667,-102.13333
+Portales (c),18873,Valid,H4,6000,Found,1/1/67 0:00,34.1,-103.41667
+Little River (a),14665,Valid,H6,4400,Found,1/1/67 0:00,38.38333,-98.01667
+Laundry West,12739,Valid,L4,4002,Found,1/1/67 0:00,-31.46667,126.93333
+Nazareth (b),16929,Valid,L6,3600,Found,1/1/67 0:00,34.5,-102.25
+Portales (a),18871,Valid,H4,3240,Found,1/1/67 0:00,34.06667,-103.5
+Tathlith,23885,Valid,L6,2500,Fell,1/1/67 0:00,19.38333,43.73333
+Hartley,11847,Valid,L,2100,Found,1/1/67 0:00,35.94167,-102.16
+Parambu,18102,Valid,LL5,2000,Fell,1/1/67 0:00,-6.23333,-40.7
+Seminole (c),23490,Valid,H4,1711,Found,1/1/67 0:00,32.55,-102.39167
+Laundry Rockhole,12738,Valid,H5,1443,Found,1/1/67 0:00,-31.53333,127.01667
+Cope (b),5441,Valid,H5,817,Found,1/1/67 0:00,39.68333,-102.845
+Georgetown,10904,Valid,H6,687,Found,1/1/67 0:00,39.7,-105.7
+Portales (b),18872,Valid,L6,595.8,Found,1/1/67 0:00,34.06667,-103.5
+Tsarev,24058,Valid,L5,1225300,Found,1/1/68 0:00,48.7,45.7
+Wildara,24265,Valid,H5,500000,Found,1/1/68 0:00,-28.23333,120.85
+Saint-Aubin,23096,Valid,"Iron, IIIAB",472000,Found,1/1/68 0:00,48.48333,3.58333
+Juromenha,12213,Valid,"Iron, IIIAB",25250,Fell,1/1/68 0:00,38.74028,-7.27
+Boolka,5108,Valid,H5,12000,Found,1/1/68 0:00,-30.06667,141.06667
+Nazareth (iron),16933,Valid,"Iron, IIIAB",11310,Found,1/1/68 0:00,34.52667,-102.105
+Kalvesta,12237,Valid,H4,10000,Found,1/1/68 0:00,38.08333,-100.25
+Motpena (a),16760,Valid,L6,8810,Found,1/1/68 0:00,-31.1,138.26667
+Idalia,11998,Valid,H,7400,Found,1/1/68 0:00,39.695,-102.295
+Dalhart,5508,Valid,H5,4400,Found,1/1/68 0:00,36.04333,-102.40833
+Wynyard,24344,Valid,H5,3479,Found,1/1/68 0:00,51.88333,-104.18333
+Smyer,23655,Valid,H6,3273,Found,1/1/68 0:00,33.58333,-102.16667
+Fenbark,10085,Valid,H5,1861,Found,1/1/68 0:00,-30.44028,121.25694
+Boaz (stone),5091,Valid,H5,1800,Found,1/1/68 0:00,33.65167,-103.70833
+Akhricha,428,Valid,H,1760,Found,1/1/68 0:00,28.4625,1.025
+Quinyambie,22365,Valid,LL3.6,1638,Found,1/1/68 0:00,-30.15,140.98333
+Nazareth (d),16931,Valid,H6,1500,Found,1/1/68 0:00,34.58333,-102.08333
+Delphos (a),6645,Valid,L4,1244.7,Found,1/1/68 0:00,34.08333,-103.525
+Elida (a),10014,Valid,L6,936.8,Found,1/1/68 0:00,33.78333,-103.57667
+Leslie,12771,Valid,H5,895,Found,1/1/68 0:00,34.61139,-100.855
+Mokrousovo,16714,Valid,L/LL4/5,789.2,Found,1/1/68 0:00,55.9,66.7
+Roosevelt County 080,22735,Valid,H6,727.8,Found,1/1/68 0:00,34.05,-103.5
+Oasis State Park,17974,Valid,OC,606,Found,1/1/68 0:00,34.22833,-103.35833
+Allende,2278,Valid,CV3,2000000,Fell,1/1/69 0:00,26.96667,-105.31667
+Buenaventura,5162,Valid,"Iron, IIIAB",113600,Found,1/1/69 0:00,29.8,-107.55
+Murchison,16875,Valid,CM2,100000,Fell,1/1/69 0:00,-36.61667,145.2
+Wooramel,24335,Valid,L5,71000,Found,1/1/69 0:00,-25.65,114.21667
+Ashmore,2349,Valid,H5,55400,Found,1/1/69 0:00,32.9,-102.28333
+Aprel'sky,2319,Valid,"Iron, IIIAB",54600,Found,1/1/69 0:00,53.3,126.11667
+Benjamin,5020,Valid,H4/5,51800,Found,1/1/69 0:00,33.58333,-99.8
+Yilmia,30362,Valid,EL6,40000,Found,1/1/69 0:00,-31.19167,121.53333
+Guin,11445,Valid,"Iron, ungrouped",34500,Found,1/1/69 0:00,33.96667,-87.91667
+Gobabeb,10939,Valid,H4,27000,Found,1/1/69 0:00,-23.55,15.03333
+Park,18104,Valid,L6,13000,Found,1/1/69 0:00,39.11,-100.36167
+Redfields,22551,Valid,"Iron, ungrouped",8740,Found,1/1/69 0:00,-30.71667,116.5
+Ikhrarene,12005,Valid,L4,5465,Found,1/1/69 0:00,28.60417,1.04167
+Bovedy,5121,Valid,L3,5460,Fell,1/1/69 0:00,54.56667,-6.33333
+Myersville,16886,Valid,OC,5397,Found,1/1/69 0:00,28.95,-97.40278
+Garrison,10864,Valid,H5,5116,Found,1/1/69 0:00,33.86333,-103.34667
+Edjudina,7766,Valid,H4,4480,Found,1/1/69 0:00,-29.58639,122.18167
+Patora,18112,Valid,H6,4375,Fell,1/1/69 0:00,20.93694,82.05
+Leoville (b),12767,Valid,OC,2500,Found,1/1/69 0:00,39.60833,-100.475
+Glasston,10928,Valid,L5,1990,Found,1/1/69 0:00,48.71667,-97.3
+Panhandle,18096,Valid,H5,1360,Found,1/1/69 0:00,35.33333,-101.38333
+Grier (b),11203,Valid,L5-7,929.4,Found,1/1/69 0:00,34.26667,-103.38333
+Suchy Dul,23737,Valid,L6,815.3,Fell,1/1/69 0:00,50.53806,16.26333
+Menindee Lakes 001,15479,Valid,L6,747,Found,1/1/69 0:00,-33.16667,141.75
+Yamato 691,24358,Valid,EH3,715,Found,1/1/69 0:00,-71.84861,36.51944
+West Reid,24247,Valid,H6,627.7,Found,1/1/69 0:00,-30.05,128.93333
+North Forrest,17003,Valid,H5,608.9,Found,1/1/69 0:00,-30.5,128.1
+Andreevka,2296,Valid,L3,600,Fell,1/1/69 0:00,48.7,37.5
+De Kalb,6623,Valid,H,566,Found,1/1/69 0:00,39.59167,-94.92194
+Etosha,10061,Valid,"Iron, IC",110700,Found,1/1/70 0:00,-18.5,16
+Mills,16687,Valid,H6,88000,Found,1/1/70 0:00,36.23,-104.11889
+Bledsoe,5074,Valid,H4,30500,Found,1/1/70 0:00,33.59167,-103.02667
+Isna,12051,Valid,CO3.8,23000,Found,1/1/70 0:00,24.83333,31.66667
+Big Rock Donga,5044,Valid,H6,19000,Found,1/1/70 0:00,-30.55,130.96667
+Lost City,14711,Valid,H5,17000,Fell,1/1/70 0:00,36.00833,-95.15
+Benedict,5017,Valid,"Iron, IIIAB",16380,Found,1/1/70 0:00,41,-97.53333
+Answer,2309,Valid,Iron,11090,Found,1/1/70 0:00,-21.65972,140.90694
+Egvekinot,7773,Valid,"Iron, IAB-sLM",10000,Found,1/1/70 0:00,66.8,178.2
+Lazbuddie,12746,Valid,LL5,8600,Found,1/1/70 0:00,34.5,-102.75
+Grady (c),10953,Valid,H4,5700,Found,1/1/70 0:00,34.8,-103.31667
+Dongtai,7708,Valid,LL6,5500,Fell,1/1/70 0:00,32.91667,120.78333
+Felt,10083,Valid,H6,5400,Found,1/1/70 0:00,36.55,-102.78333
+Ucera,24097,Valid,H5,4590,Fell,1/1/70 0:00,11.05,-69.85
+Willaroy,24272,Valid,H3.8-an,4030,Found,1/1/70 0:00,-30.1,143.2
+Kittakittaooloo,12327,Valid,H4,3600,Found,1/1/70 0:00,-28.03333,138.13333
+Dwaleni,7755,Valid,H4-6,3230,Fell,1/1/70 0:00,-27.2,31.31667
+Tillaberi,23999,Valid,L6,3000,Fell,1/1/70 0:00,14.25,1.53333
+Two Buttes (b),24092,Valid,H,3000,Found,1/1/70 0:00,37.63333,-102.41667
+Euclid,10063,Valid,H5,2500,Found,1/1/70 0:00,47.95833,-96.7
+Nejo,16941,Valid,L6,2450,Fell,1/1/70 0:00,9.5,35.33333
+Hereford,11876,Valid,OC,2276,Found,1/1/70 0:00,33.795,-102.24167
+Ellisras,10023,Valid,Iron,2066,Found,1/1/70 0:00,-23.83333,27.91667
+Malakal,15394,Valid,L5,2000,Fell,1/1/70 0:00,9.5,31.75
+Dora (stone),7713,Valid,OC,1570,Found,1/1/70 0:00,33.92333,-103.35
+Kiffa,12303,Valid,H5,1500,Fell,1/1/70 0:00,16.58333,-11.33333
+Lakeview,12449,Valid,H4,1238,Found,1/1/70 0:00,34.53333,-101.7
+Hart Camp,11846,Valid,H6,1200,Found,1/1/70 0:00,33.99833,-102.17667
+Nimberrin,16979,Valid,L6,786,Found,1/1/70 0:00,-31.51667,117.96667
+Sanclerlandia,23132,Valid,"Iron, IIIAB",279000,Found,1/1/71 0:00,-16.21667,-50.3
+Yongning,30365,Valid,"Iron, IAB-ung",60000,Found,1/1/71 0:00,22.75,108.33333
+Guadalupe y Calvo,11431,Valid,"Iron, IIAB",58630,Found,1/1/71 0:00,26.1,-106.96667
+Bunjil,5164,Valid,L6,38750,Found,1/1/71 0:00,-29.62917,116.48222
+Salaices,23105,Valid,H4,24500,Found,1/1/71 0:00,27,-105.25
+Galatia,10847,Valid,L6,23900,Found,1/1/71 0:00,38.64167,-98.88333
+Lone Tree,14683,Valid,H4,20676,Found,1/1/71 0:00,41.5,-91.47917
+Polujamki,18861,Valid,H4,18350,Found,1/1/71 0:00,52.1,79.7
+Happy Canyon,11821,Valid,EL6/7,16300,Found,1/1/71 0:00,34.80167,-101.56667
+Cruz del Eje,51739,Valid,"Iron, IAB complex",14000,Found,1/1/71 0:00,-30.75,-64.78333
+Kabo,12220,Valid,H4,13400,Fell,1/1/71 0:00,11.85,8.21667
+Rakity,22375,Valid,L3,11400,Found,1/1/71 0:00,51.8,79.9
+Elyria,10030,Valid,"Iron, IIIAB",10900,Found,1/1/71 0:00,38.28,-97.365
+Ella Island,10018,Valid,L6,7500,Found,1/1/71 0:00,72.88333,-25.11667
+Queretaro,22359,Valid,H4,5000,Found,1/1/71 0:00,20.63333,-100.38333
+South Plains,23680,Valid,L5,4763,Found,1/1/71 0:00,34.26667,-101.25
+North West Forrest (E6),17007,Valid,EL6,4400,Found,1/1/71 0:00,-30.6,127.81667
+Shuangyang,23582,Valid,H5,3900,Fell,1/1/71 0:00,43.5,125.66667
+Happy (a),11818,Valid,H3,2860,Found,1/1/71 0:00,35.68,-101.99333
+Anlong,2305,Valid,H5,2500,Fell,1/1/71 0:00,25.15,105.18333
+Marilia,15422,Valid,H4,2500,Fell,1/1/71 0:00,-22.25,-49.93333
+Wichita,24256,Valid,H6,2367,Found,1/1/71 0:00,37.59183,-97.21497
+Willowbar,24278,Valid,L6,2070,Found,1/1/71 0:00,36.73333,-102.2
+Brownell,5150,Valid,L6,2000,Found,1/1/71 0:00,38.69667,-99.70833
+Burns Flat,5174,Valid,L6,1987,Found,1/1/71 0:00,35.33333,-99.15
+Haver’_,11859,Valid,Ureilite,1544,Fell,1/1/71 0:00,60.24556,22.06194
+Bronco,5147,Valid,OC,972,Found,1/1/71 0:00,33.28333,-102.96667
+Jeedamya,12077,Valid,H6,914,Found,1/1/71 0:00,-29.58333,121.16667
+Happy (c),11820,Valid,OC,884.3,Found,1/1/71 0:00,34.58333,-102.05
+Watson 001,24221,Valid,"Iron, IIE",93000,Found,1/1/72 0:00,-30.5,131.55
+Northbranch,17010,Valid,H5,76000,Found,1/1/72 0:00,39.99167,-98.34167
+Valera,24149,Valid,L5,50000,Fell,1/1/72 0:00,9.31667,-70.62833
+Mayfield,15450,Valid,H4,38400,Found,1/1/72 0:00,37.30833,-97.545
+Kifkakhsyagan,12304,Valid,"Iron, IIIAB",18800,Found,1/1/72 0:00,64.4,172.7
+Hardtner,11827,Valid,L6,13000,Found,1/1/72 0:00,37.06667,-98.66167
+Kenna,12277,Valid,Ureilite,10900,Found,1/1/72 0:00,33.9,-103.55333
+Delaware,6640,Valid,L4,8346,Found,1/1/72 0:00,35.28333,-93.5
+Ipiranga,12043,Valid,H6,7000,Fell,1/1/72 0:00,-25.5,-54.5
+Roosevelt,22655,Valid,H3.4,5200,Found,1/1/72 0:00,34.86667,-98.95
+Raguli,22373,Valid,H3.8,4239,Found,1/1/72 0:00,45.7,43.7
+Flagler,30564,Valid,H3.8,4100,Found,1/1/72 0:00,39.23,-102.99
+Anson,2308,Valid,L6,3900,Found,1/1/72 0:00,39.33333,-97.56167
+Muleshoe,16846,Valid,H4/6,3600,Found,1/1/72 0:00,34.12167,-102.695
+West Point,24246,Valid,L6,3100,Found,1/1/72 0:00,33.075,-102.045
+Dor el Gani,7711,Valid,"Iron, IIIAB",2575,Found,1/1/72 0:00,26.95833,16.03333
+Happy (b),11819,Valid,OC,2505,Found,1/1/72 0:00,34.59333,-101.99333
+Lider (a),14648,Valid,L5,2160,Found,1/1/72 0:00,34.655,-101.64
+Lider (b),14649,Valid,H5,1800,Found,1/1/72 0:00,34.655,-101.64
+Bowesmont (b),5125,Valid,L5,1300,Found,1/1/72 0:00,48.78333,-97.35
+Arch,2327,Valid,CV3,985.8,Found,1/1/72 0:00,34.15,-103.22
+Mount Margaret,16781,Valid,L5,850,Found,1/1/72 0:00,-28.83333,122.18333
+El Mirage,7809,Valid,"Iron, IIAB",598,Found,1/1/72 0:00,33.68333,-112.26667
+Alkhamasin,475,Valid,"Iron, IIAB",1200000,Found,1/1/73 0:00,20.6,44.88333
+El Sampal,7817,Valid,"Iron, IIIAB",142000,Found,1/1/73 0:00,-44.53333,-70.36667
+Araslanovo,2324,Valid,L/LL5,132000,Found,1/1/73 0:00,55.14167,48.2
+Lueders,14750,Valid,"Iron, IAB-MG",35400,Found,1/1/73 0:00,32.83611,-99.60417
+Wayside,24225,Valid,H6,23600,Found,1/1/73 0:00,34.80167,-101.68333
+Colonia Obrera,5405,Valid,"Iron, IIIE",12200,Found,1/1/73 0:00,24.01667,-104.66667
+Lichtenberg,14646,Valid,H6,4000,Fell,1/1/73 0:00,-26.15,26.18333
+Canon City,5253,Valid,H6,1400,Fell,1/1/73 0:00,38.47028,-105.24139
