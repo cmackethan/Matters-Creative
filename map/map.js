@@ -13,7 +13,7 @@ function setup(){
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas)
   // Load the data
-  meteorites = loadTable('Meteorite_Landings.csv', 'csv', 'header');
+  meteorites = loadTable('./data/Meteorite_Landings.csv', 'csv', 'header');
   // Only redraw the meteorites when the map change and not every frame.
   myMap.onChange(drawMeteorites);
   fill(70, 203,31);
