@@ -2,6 +2,6 @@
 
 An interactive map of lynchings across America.
 
-Contributers: Conrad MacKethan, Rafe Forward, Will McArdle
+**Contributers: Conrad MacKethan, Rafe Forward, Will McArdle**
 
-AmStuds Project
+AmStuds Project - 2018
