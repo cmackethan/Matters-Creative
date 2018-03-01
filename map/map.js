@@ -14,7 +14,7 @@ function setup(){
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas)
   //load data
-  lynchings = loadTable('/Users/cmackethan/Development/Matters-Creative/map/data/lynchings.csv', 'csv', 'header');
+  lynchings = loadTable('./data/lynchings.csv', 'csv', 'header');
   //run draw function only when changes occur
   myMap.onChange(draw);
   //color
