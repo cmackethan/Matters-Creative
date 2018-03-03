@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+/*UNIVERSAL STYLE*/
+
+body{ 
+	background-color: white;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto;
+	position: center;
+	justify-content: center;
+}
+
+#logo{
+	width:4.65%;
+	height:4.65%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:2%;
+}
+
+#titleText{
+	margin:auto;
+	padding-bottom: 50px;
+	text-align:center;
+	color:black;
+	font-family: Courier;
+	font-size: 40px;
+}

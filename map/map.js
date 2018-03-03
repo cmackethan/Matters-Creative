@@ -3,18 +3,20 @@ var myMap;
 var canvas;
 var mappa = new Mappa('Leaflet');
 var options = {
-  lat: 0,
-  lng: 0,
+  lat: 37.0902,
+  lng: -95.7129,
   zoom: 4,
   style: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"
 }
 
 function setup(){
-  canvas = createCanvas(640,640);
+  canvas = createCanvas(1680,640);
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas)
+  //style
+  myMap.style.position = "center";
   //load data
-  lynchings = loadTable('/Users/cmackethan/Development/Matters-Creative/map/data/lynchings.csv', 'csv', 'header');
+  lynchings = loadTable('./data/lynchings.csv', 'csv', 'header');
   //run draw function only when changes occur
   myMap.onChange(draw);
   //color
