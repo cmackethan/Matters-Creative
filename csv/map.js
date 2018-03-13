@@ -1,5 +1,5 @@
 function preload() {
-  lynchings = loadTable('/Users/cmackethan/Development/Matters-Creative/csv/data/Weblist_IDs_Test.csv', 'csv', 'header');
+  lynchings = loadTable('./data/Weblist_IDs_Test.csv', 'csv', 'header');
 }
 
 var getLocation =  function(address) {
