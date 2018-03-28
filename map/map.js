@@ -14,7 +14,6 @@ function setup(){
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas)
   //style
-  myMap.style.position = "center";
   //load data
   lynchings = loadTable('./data/lynchings.csv', 'csv', 'header');
   //run draw function only when changes occur
